@@ -25,6 +25,9 @@
     [Randomizer](https://lab-brussels-1.github.io/home/randomizer)
   - [Coaches](#coaches)
   - [Admins](#admins)
+- [Guides](./guides)
+  - [Students](./guides/students)
+  - [Coaches](./guides/coaches)
 
 ---
 
