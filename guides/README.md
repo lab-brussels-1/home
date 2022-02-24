@@ -20,7 +20,7 @@ Good luck on your journey to a new future for yourself and your loved ones! 🍀
   - [How to Ask Questions](./study-tips/how-to-ask-questions.md)
   - [Study Strategies](./study-tips/study-strategies.md)
   - [HYF Be Materials](./study-tips/hyf-be-materials.md)
-- HYF Workflows
+- Class Workflows
   - [Asking for Help](./class-workflows/askng-for-help.md)
   - [Check-Ins](./class-workflows/check-ins.md)
   - [Deliverables](./class-workflows/deliverables.md)

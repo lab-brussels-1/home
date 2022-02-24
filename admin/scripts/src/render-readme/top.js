@@ -54,11 +54,3 @@ export const top = ({ env = {}, modules = {}, org = {} }) =>
 ---
 
 `;
-
-/*
-> [\`help-wanted\`](https://github.com/${env.user}/${
-    env.repo
-  }/issues?q=is%3Aopen+label%3Ahelp-wanted), [\`question\`](https://github.com/${
-    env.user
-  }/${env.repo}/issues?q=is%3Aopen+label%3Aquestion)
-  */
