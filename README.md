@@ -4,6 +4,7 @@
 
 > <details>
 > <summary>Tech Support</summary>
+>
 > <a href="https://rubberduckdebugging.com/" target="_blank"><img alt="Rubber Ducky" src="./assets/rubber-ducky.png"/></a>
 >
 >  </details>
@@ -26,8 +27,9 @@
   - [Coaches](#coaches)
   - [Admins](#admins)
 - [Guides](./guides)
-  - [Students](./guides/students)
-  - [Coaches](./guides/coaches)
+  - [Study Tips](./guides/study-tips)
+  - [Class Workflows](./guides/class-workflows)
+  - [Planning and Collaborating](https://github.com/hackyourfuturebelgium/planning-and-collaborating)
 
 ---
 

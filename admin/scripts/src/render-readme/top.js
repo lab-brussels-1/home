@@ -49,7 +49,7 @@ export const top = ({ env = {}, modules = {}, org = {} }) =>
 - [Guides](./guides)
   - [Study Tips](./guides/study-tips)
   - [Class Workflows](./guides/class-workflows)
-  - [Planning and Collaborating](./guides/planning-and-collaborating)
+  - [Planning and Collaborating](https://github.com/hackyourfuturebelgium/planning-and-collaborating)
 
 ---
 
