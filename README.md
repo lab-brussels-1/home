@@ -8,7 +8,7 @@
 >
 >  </details>
 
-- [Class Calendar](https://lab-brussels-1.github.io/home/calendar)
+- [Class Calendar](https://calendar.google.com/calendar/embed?src=c_c46u93gd7iu11bq6erjb7f8208%40group.calendar.google.com&ctz=Europe%2FBrussels)
 - Modules
   - [Quick Links](#modules)
   - [Details](https://lab-brussels-1.github.io/home/modules)

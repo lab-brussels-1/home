@@ -6,7 +6,7 @@ const nameToTitle = (name = '') =>
         .map((word) => word[0].toUpperCase() + word.slice(1))
         .join(' ');
 
-export const top = ({ env = {}, modules = {} }) =>
+export const top = ({ env = {}, modules = {}, org = {} }) =>
   `# ${env.repo ? nameToTitle(env.repo) : 'Study Repo'}: ${nameToTitle(
     env.user,
   )}
@@ -17,7 +17,7 @@ export const top = ({ env = {}, modules = {} }) =>
 >
 >  </details>
 
-- [Class Calendar](https://${env.user}.github.io/${env.repo}/calendar)
+- [Class Calendar](${org.calendar})
 - Modules
   - [Quick Links](#modules)
   - [Details](https://${env.user}.github.io/${env.repo}/modules)
