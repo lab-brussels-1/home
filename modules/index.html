@@ -26,10 +26,28 @@
       };
     </script>
 
-    <script src="./scripts/marked.min.js"></script>
+    <script src="./lib/marked.min.js"></script>
 
     <script id="utils">
-      // const log = (thing) => (consule.log(thing), thing);
+      // const log = (thing) => (console.log(thing), thing);
+
+      const nameToTitle = (name = '') =>
+        typeof name !== 'string'
+          ? ''
+          : name
+              .split('-')
+              .map((word) => word[0].toUpperCase() + word.slice(1))
+              .join(' ');
+
+      const getRawUrl = async (repoURL = '') => {
+        const [owner, repo] = repoURL.split('/').slice(-2);
+
+        const repoData = await fetch(
+          `https://api.github.com/repos/${owner}/${repo}`,
+        ).then((res) => res.json());
+
+        return `https://raw.githubusercontent.com/${owner}/${repo}/${repoData.default_branch}`;
+      };
     </script>
 
     <script id="components">
@@ -40,22 +58,14 @@
             return readmeCache[repoURL];
           }
 
-          const [owner, repo] = repoURL.split('/').slice(-2);
+          const rawURL = await getRawUrl(repoURL);
 
-          if (!owner || !repo) {
-            throw new Error('no user or repo provided');
-          }
-
-          const repoData = await fetch(
-            `https://api.github.com/repos/${owner}/${repo}`,
-          ).then((res) => res.json());
-
-          const readmeMd = await fetch(
-            `https://raw.githubusercontent.com/${owner}/${repo}/${repoData.default_branch}/README.md`,
-          ).then((res) => res.text());
+          const readmeMd = await fetch(`${rawURL}/README.md`).then((res) =>
+            res.text(),
+          );
 
           const parsedReadme = marked.parse(readmeMd, {
-            baseUrl: `${repoURL}/tree/${repoData.default_branch}/`,
+            baseUrl: `${rawURL}/`,
             gfm: true,
           });
 
@@ -140,8 +150,7 @@
     </script>
 
     <script type="module" id="init">
-      import { nameToTitle } from './scripts/name-to-title.js';
-      import { load } from './scripts/js-yaml.js';
+      import { load } from './lib/js-yaml.js';
 
       (async () => {
         try {
