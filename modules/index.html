@@ -48,7 +48,13 @@
 
         const { default_branch } = await res.json();
 
-        return `https://raw.githubusercontent.com/${owner}/${repo}/${default_branch}`;
+        return {
+          owner,
+          repo,
+          repoWithBranch: `https://github.com/${owner}/${repo}/tree/${default_branch}`,
+          rawWithBranch: `https://raw.githubusercontent.com/${owner}/${repo}/${default_branch}`,
+          ghPages: `https://${owner}.github.io/${repo}`,
+        };
       };
     </script>
 
@@ -60,14 +66,14 @@
             return readmeCache[repoURL];
           }
 
-          const rawURL = await getRawUrl(repoURL);
+          const { repoWithBranch, rawWithBranch } = await getRawUrl(repoURL);
 
-          const readmeMd = await fetch(`${rawURL}/README.md`).then((res) =>
-            res.text(),
+          const readmeMd = await fetch(`${rawWithBranch}/README.md`).then(
+            (res) => res.text(),
           );
 
           const parsedReadme = marked.parse(readmeMd, {
-            baseUrl: `${rawURL}/`,
+            baseUrl: `${repoWithBranch}/`,
             gfm: true,
           });
 
