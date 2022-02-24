@@ -42,11 +42,13 @@
       const getRawUrl = async (repoURL = '') => {
         const [owner, repo] = repoURL.split('/').slice(-2);
 
-        const repoData = await fetch(
+        const res = await fetch(
           `https://api.github.com/repos/${owner}/${repo}`,
-        ).then((res) => res.json());
+        );
 
-        return `https://raw.githubusercontent.com/${owner}/${repo}/${repoData.default_branch}`;
+        const { default_branch } = await res.json();
+
+        return `https://raw.githubusercontent.com/${owner}/${repo}/${default_branch}`;
       };
     </script>
 
@@ -196,7 +198,7 @@
             await navigateModule();
           }
         } catch (err) {
-          consule.error(err);
+          console.error(err);
         }
       })();
     </script>
