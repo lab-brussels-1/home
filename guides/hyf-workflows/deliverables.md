@@ -8,8 +8,8 @@ smaller, some are group and some are individual.
 
 ## Deliverable Issues
 
-Each individual or group \(depending on the assignment\) will create one issue
-per deliverable in your class repo. This issue is used to track your progress on
+Each individual or group (depending on the assignment) will create one issue per
+deliverable in your class repo. This issue is used to track your progress on
 each assignment. These issues will be posted on the **deliverables** project
 board.
 
@@ -62,8 +62,8 @@ implement feedback, and everything will be centralized in your class repo.
 The weekly workflow for project submission and feedback will look something like
 this:
 
-1. Attend class \(on time!\). In class you will work in small groups to study
-   some examples and exercises.
+1. Attend class (on time!). In class you will work in small groups to study some
+   examples and exercises.
 2. At the beginning of each chapter create a new issue in your class repo for
    the module's deliverables.
 3. Study away! Move your card to the "IN PROGRESS" column once you have begun a
@@ -89,4 +89,4 @@ this:
      please move your card back into the _READY FOR REVIEW_ column so we know to
      take another look.
    - **DONE**: When the project is done you've addressed all feedback, _DONE_!
-     _\(Only coaches can move cards into the "DONE" column!\)_
+     _(Only coaches can move cards into the "DONE" column!)_

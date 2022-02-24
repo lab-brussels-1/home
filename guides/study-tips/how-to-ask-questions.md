@@ -1,19 +1,11 @@
 # How to Ask Questions
 
-1. _0 -&gt; 20 min_: Try on your own
-2. _20 -&gt; 60 min_: Ask your classmates for help
-   - If you're stuck on the `group` project: move your team's issue to `BLOCKED`
-     on the project board, leave a comment, and ask for help on the shared
-     channel
-   - If you're stuck on the `individual` exercises: add the `question` label to
-     your issue, leave a comment, and share a link to it on the shared Slack
-     channel
-   - No private messages please! you will never be the only person with this
-     question
-3. _60+ min_: Tag your coaches in your issue
+> - _0 -&gt; 20 minutes_: Try on your own
+> - _20 -&gt; 60 minutes_: Ask your classmates for help
+> - _60+ minutes_: Ask your coaches for help
 
 Many students find it hard to ask questions during the classes and online
-\(through Slack or otherwise\). However, to become a good programmer means you
+(through Discord or otherwise). However, to become a good programmer means you
 dare to ask questions, lots of questions. In fact, some companies even have a
 rule on this: If you are stuck, you have ​one hour t​o solve the problem. If you
 cannot, you ​have to ask for help.
@@ -21,7 +13,7 @@ cannot, you ​have to ask for help.
 In HackYourFuture there are several ways to ask for help:
 
 - Ask your classmate or a student from another class
-- Ask in Slack \(preferably in your classroom channel\)
+- Ask in Slack (preferably in your classroom channel)
 - Approach a teacher during breaks or through slack in a group
 - Ask HYF staff to connect you to a graduate or teacher for individual sessions
 
@@ -95,8 +87,8 @@ understanding the new information.
 _Solution_
 
 This situation applies when you have not mastered the underlying basic concepts
-yet and therefore cannot understand the explanation of the teacher \(or reading
-materials\) when discussing more advanced concepts.
+yet and therefore cannot understand the explanation of the teacher (or reading
+materials) when discussing more advanced concepts.
 
 For instance, the teacher is explaining ​callback functions​ with a practical
 example. However, you do not grasp his/her explanation since you are still not
@@ -111,8 +103,8 @@ We can always provide you with some help, for instance by organizing individual
 video calls or appointments with former students or teachers. Moreover, it is
 important to revisit the basic concepts that you struggle and ​practice,
 practice, practice u​ ntil you dream of Javascript functions. After that, you
-can try to revisit the more advanced concepts \(for instance by re-watching the
-lecture on YouTube\).
+can try to revisit the more advanced concepts (for instance by re-watching the
+lecture on YouTube).
 
 If you feel reason 3 applies to you, it is crucial not to wait and hope things
 get better with time. As the speed of our curriculum is very high, ​you have to

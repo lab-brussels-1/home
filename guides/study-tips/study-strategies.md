@@ -1,25 +1,22 @@
 # Study Strategies
 
-Most people study inefficiently. This is mostly because they never really
+It's hard to study effectively. This is mostly because we've never really
 learned how to study the right way, even after years of university in some
 cases! In this chapter we will show you some of the most important strategies to
 learn in a way that is much more time efficient.
 
 As the HackYourFuture course is very demanding, this is critical to get through
 the program successfully. In fact, many successful experts that require focus
-and concentration for their craft \(scientists, programmers, writers, artists,
-craftsmen, etc.\) share one thing in common: they are very serious about ​how
+and concentration for their craft (programmers, writers, artists, scientists,
+craftsmen, etc.) share one thing in common: they are very serious about ​how
 ​they learn. This chapter will give you a short introduction into how you can
 study most effectively.
 
-### Index
-
-- [Planning](study-strategies.md#planning)
-- [Don’t just read, code it!](study-strategies.md#Don-t-just-read--code-it)
-- [Go to the basics](study-strategies.md#Go-to-the-basics)
-- [Sleep, Breaks and Exercise](study-strategies.md#Sleep--Breaks-and-Exercise)
-- [Distractions](study-strategies.md#distractions)
-- [How to become a pro at learning](study-strategies.md#How-to-become-a-pro-at-learning)
+- [Planning](#planning)
+- [Don’t just read, code it!](#Don-t-just-read--code-it)
+- [Sleep, Breaks and Exercise](#Sleep--Breaks-and-Exercise)
+- [Distractions](#distractions)
+- [How to become a pro at learning](#How-to-become-a-pro-at-learning)
 
 ## Planning
 
@@ -36,83 +33,30 @@ material for the following week. Before you start doing anything, it’s good to
 think about how much time you expect spend on each task by having a quick look
 at it.
 
-Let’s take the example of JavaScript 1 week 3.
-
-**Homework + Recap \(19 hours\)**
-
-1. Recapping previous concepts \(5 hours\)
-2. JavaScript exercises \(4 hours\)
-3. Freecodecamp challenges \(10 hours\)
-
-Before starting the homework it is essential to first have a look at the
-concepts discussed in the previous week\(s\) before moving forward.
-
-You can do this by asking your teacher to record on Sunday their lessons and
-share it on Slack. You can also check videos of HackYourFuture Amsterdam posted​
-online on Youtube.
-
 It is advised to watch some parts of the lecture again and practice with the
 examples/exercises provided in class. Change the values, variables and other
 aspects of the code to improve your understanding of the practical use of these
 concepts. In addition to the videos, you can go through the reading material of
-the previous week. Again, the idea is that you practice the concepts by putting
-them into code.
-
-**Reading/Watching \(6 hours\)**
-
-1. Article arrays \(60 min\)
-2. Article Loops \(60 min.\)
-3. Article functions \(60min\)
-4. Article scope \(30min\)
-5. Objects\(45min\)
-6. Conditions \(45 min\)
-7. Expressions vs statements \(25min\)
-8. Handing in homework with git \(30 min\).
+the previous week.
 
 We have a certain number of articles and videos that we share as part of the
 curriculum. However, it is important to read and watch them effectively. Again,
 try to follow the examples and code them yourself. Also, you are free to look
 for your own reading material and videos. ​There is a lot of good material on
 the internet, which you can make use of. ​Also, if you find a resource that you
-think is better than what we offer in the curriculum, please let us know \(see
-textbox below!\).
-
-### How to Improve the Curriculum!
-
-1. Go to the Github page you want to add a suggestion to
-2. Create a new issue and add your suggestions. This can be a URL to an article,
-   a video, graphic or anything else that will improve the curriculum.
-3. We will review it and if we find it useful, add it to the curriculum.
-
-We are looking forward to your ideas & suggestions!
-
-The homework and reading material combined take around​ 30+ hours​, however this
-does not account for getting stuck with exercises. Therefore, you probably want
-to add another 5 hours at least.
-
-Now that you know how much time you have available and which are the activities
-you need to study per day, it’s time to make a ​weekly schedule​. The key here
-is not to wait until Wednesday or Thursday, but to start Monday morning already.
-Learning programming concepts takes time, and if you try to do everything at the
-end of the week, your brain has very little time to process these concepts. Per
-day you schedule a number of small tasks, and once you are finished you can feel
-good about finishing the tasks of the day.
-
-> Note that planning is an ​art by itself!​ If you want to learn how to make
-> better weekly and daily schedules, we recommend you to read Cal Newport.
-
-[TOP](study-strategies.md#study-strategies)
+think is better than what we offer in the curriculum, please let us know.
 
 ## Don’t just read, code it!
 
 As explained in the previous section, reading about code, or listening to your
-teacher about code,​ is not the same as actually coding!​ It is incredibly
-important that you try out the concepts that you have learned, and that you try
-to apply it in multiple ways in order to become comfortable with it. There is no
-way around this.
+teacher about code,​ is not the same as actually studying code!​ It is
+incredibly important that you try out the concepts that you have learned, and
+that you try to apply it in multiple ways in order to become comfortable with
+it. There is no way around this.
 
 We recommend that when you study something, directly try it out in your code
-editor by making a simple coding example and see how it works in practice.
+editor by running the examples and writing your own examples and see how it
+works in practice.
 
 Only this way you will truly understand it well, and gain the ability to turn
 ideas into code.
@@ -124,23 +68,20 @@ old-fashioned pen and paper provides cognitive benefits that you cannot achieve
 when typing on your keyboard. By the way, some companies will ask you to do the
 same during their interview process – good practice indeed!
 
-[TOP](study-strategies.md#study-strategies)
+## Group Study
 
-## Go to the basics
+Learning and programming are both less fun alone. Planning group study sessions
+will make your time at HYF more fun and more productive.
 
-The basic concepts presented in the earlier modules are crucial to become a good
-programmer. Many students in JS2 and JS3 still struggle with arrays, string,
-objects, array of objects, properties and other basic concepts which are
-discussed in JavaScript. Many students in the React-module still struggle with
-callback functions and closures \(discussed in JS2\). In order to solve more
-complicated coding challenges, ​you need to know these concepts!
+One great way to work together is _Pair Programming_, this is a technique where
+two people code together on a single computer. Take a look through these
+references then give it a try with your classmates:
 
-If you really want to master the basic concepts, the best way is to do more
-exercises with them. You can find a lot on the internet, but you can also easily
-create your own basic exercises \(like the rotten fruit example in chapter 1\).
-For instance, can you come up with some examples on how to use a basic function?
-
-[TOP](study-strategies.md#study-strategies)
+- [Good first read](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
+- [Thorough guide](https://tuple.app/pair-programming-guide/)
+- [Deeper dive](https://martinfowler.com/articles/on-pair-programming.html)
+- [How to Pair Program](https://www.youtube.com/watch?v=YhV4TaZaB84)
+- [Things to Avoid](https://www.youtube.com/watch?v=McZ131y0OYU)
 
 ## Sleep, Breaks and Exercise
 
@@ -165,8 +106,6 @@ inflammation, and an increase of chemicals in the brain that affect the health
 of brain cells, the growth of blood vessels in the brain, as well as the
 survival of new brain cells. Indirectly, exercise improves mood and sleep, and
 reduces stress and anxiety.
-
-[TOP](study-strategies.md#study-strategies)
 
 ## Distractions
 
@@ -206,13 +145,11 @@ if you are a parent. But perhaps you can ask your partner or a friend to keep an
 eye on your children at least for a few hours a day, while you go to a local
 library, or study in a quiet room at a friend’s house.
 
-[TOP](study-strategies.md#study-strategies)
-
 ## How to become a pro at learning
 
 Obviously, this chapter only provides you with a very basic introduction. If you
 are interested in learning more about how to learn effectively we recommend you
 to read more about deliberate learning and deep work. Studying effectively –
 although NOT easy- is a superpower you can use for the rest of your life!!! An
-excellent read about the value of working without distractions \(and how to
-achieve it\) is the book ​Deep Work​ by Cal Newport.
+excellent read about the value of working without distractions (and how to
+achieve it) is the book ​Deep Work​ by Cal Newport.

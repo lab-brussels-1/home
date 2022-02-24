@@ -10,10 +10,9 @@ during, and after you write some code to write down some notes on what you just
 learned.
 
 As you work through this curriculum we will often recommend ways to take notes
-on particular topics \(ie. descriptive diagrams, questions to explore,
-organizing & deploying your notes\), but for now take your notes however you
-usually do. For now just be sure to take regular notes and to keep them
-organized.
+on particular topics (ie. descriptive diagrams, questions to explore, organizing
+& deploying your notes), but for now take your notes however you usually do. For
+now just be sure to take regular notes and to keep them organized.
 
 Take lots of notes! On post-its, GitHub, or even your arm. If you don't make an
 effort to manage your learning process you'll be surprised at how quickly it can
@@ -76,7 +75,7 @@ and practice repeating how the teacher pronounces their code.
 - [Keep a Study Journal](https://teachthought.com/literacy/20-types-of-learning-journals-that-help-students-think/)
 - [Weekly Review Day](https://www.youtube.com/watch?v=PlTrxpNaZI8)
 
-**Markdown \(for taking pretty notes\)**
+**Markdown (for taking pretty notes)**
 
 - [Tutorial](https://www.markdowntutorial.com)
 - [Reference](https://guides.github.com/features/mastering-markdown/)
@@ -90,10 +89,6 @@ Time Management tools you can use to organise your work.
 - [Trello](https://trello.com/) - Project Management
 - [Notion](https://www.notion.so/) - All-in-one Workspace
 - [Asana](https://asana.com/) - Project Management Tool
-
-You can find our Career Skills Session on Time Management here:
-
-- [Career Skills Session - Time Management](./)
 
 **Challenge: Take your notes with Nano!**
 

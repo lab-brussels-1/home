@@ -13,6 +13,7 @@ export const top = ({ env = {}, modules = {}, org = {} }) =>
 
 > <details>
 > <summary>Tech Support</summary>
+>
 > <a href="https://rubberduckdebugging.com/" target="_blank"><img alt="Rubber Ducky" src="./assets/rubber-ducky.png"/></a>
 >
 >  </details>
@@ -49,7 +50,6 @@ export const top = ({ env = {}, modules = {}, org = {} }) =>
   - [Study Tips](./guides/study-tips)
   - [Class Workflows](./guides/class-workflows)
   - [Planning and Collaborating](./guides/planning-and-collaborating)
-  - [For Coaches](./guides/for-coaches)
 
 ---
 

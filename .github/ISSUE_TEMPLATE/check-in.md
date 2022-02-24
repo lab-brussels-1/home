@@ -32,23 +32,21 @@ Week X
 
 - [ ] I have pushed my progress to [my fork of exercises repo](_)
 
-### Check-In
+## I Need Help With:
 
-#### I Need Help With:
+## What went well?
 
-#### What went well?
+## What went less well?
 
-#### What went less well?
+## Lessons Learned
 
-#### Lessons Learned
-
-### Sunday Prep Work
+## Sunday Prep Work
 
 ---- END CHECK-IN TEMPLATE ---->
 
 <!---- BEGIN RETRO TEMPLATE: copy this into a new comment at the end of each module
 
-## Personal
+## Me
 
 ### What was not clear, where did you get stuck?
 
@@ -60,7 +58,7 @@ Week X
 
 ---
 
-## HYF Feedback
+## The Course
 
 ### What can there be more of?
 
