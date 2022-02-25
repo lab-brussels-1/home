@@ -13,6 +13,7 @@ export const top = ({ env = {}, modules = {}, org = {} }) =>
 
 > <details>
 > <summary>Tech Support</summary>
+>
 > <a href="https://rubberduckdebugging.com/" target="_blank"><img alt="Rubber Ducky" src="./assets/rubber-ducky.png"/></a>
 >
 >  </details>
@@ -45,15 +46,11 @@ export const top = ({ env = {}, modules = {}, org = {} }) =>
   }/randomizer)
   - [Coaches](#coaches)
   - [Admins](#admins)
+- [Guides](./guides)
+  - [Study Tips](./guides/study-tips)
+  - [Class Workflows](./guides/class-workflows)
+  - [Planning and Collaborating](https://github.com/hackyourfuturebelgium/planning-and-collaborating)
 
 ---
 
 `;
-
-/*
-> [\`help-wanted\`](https://github.com/${env.user}/${
-    env.repo
-  }/issues?q=is%3Aopen+label%3Ahelp-wanted), [\`question\`](https://github.com/${
-    env.user
-  }/${env.repo}/issues?q=is%3Aopen+label%3Aquestion)
-  */

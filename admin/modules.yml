@@ -6,11 +6,13 @@ path:
     url: https://github.com/hackyourfuturebelgium/precourse
     weeks: 1
   - name: 1. Workflows
-    description: Learn the workflows you need to develop individually and in a group.
+    description:
+      Learn the workflows you need to develop individually and in a group.
     url: https://github.com/hackyourfuturebelgium/workflows
     weeks: 2
   - name: 2. Agile Development
-    description: Practice collaboratively planning and developing HTML/CSS websites.
+    description:
+      Practice collaboratively planning and developing HTML/CSS websites.
     url: https://github.com/hackyourfuturebelgium/agile-development
     weeks: 4
   - name: 3. UX/UI Design
