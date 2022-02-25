@@ -84,7 +84,7 @@ and practice repeating how the teacher pronounces their code.
 
 As humans we are 'designed' to be distracted. Therefore, your study/work
 environment is an important aspect of how effective you learn. Here are some
-Time Management tools you can use to organise your work.
+Time Management tools you can use to organize your work.
 
 - [Trello](https://trello.com/) - Project Management
 - [Notion](https://www.notion.so/) - All-in-one Workspace
