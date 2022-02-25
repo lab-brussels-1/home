@@ -39,7 +39,7 @@
               .map((word) => word[0].toUpperCase() + word.slice(1))
               .join(' ');
 
-      const getRawUrl = async (repoURL = '') => {
+      const processRepoURL = async (repoURL = '') => {
         const [owner, repo] = repoURL.split('/').slice(-2);
 
         const res = await fetch(
@@ -51,6 +51,7 @@
         return {
           owner,
           repo,
+          defaultBranch: default_branch,
           repoWithBranch: `https://github.com/${owner}/${repo}/tree/${default_branch}`,
           rawWithBranch: `https://raw.githubusercontent.com/${owner}/${repo}/${default_branch}`,
           ghPages: `https://${owner}.github.io/${repo}`,
@@ -66,7 +67,9 @@
             return readmeCache[repoURL];
           }
 
-          const { repoWithBranch, rawWithBranch } = await getRawUrl(repoURL);
+          const { repoWithBranch, rawWithBranch } = await processRepoURL(
+            repoURL,
+          );
 
           const readmeMd = await fetch(`${rawWithBranch}/README.md`).then(
             (res) => res.text(),
