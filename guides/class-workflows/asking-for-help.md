@@ -34,9 +34,9 @@ your blocked assignment.
 ## On Discord
 
 GitHub is great for deeper discussions around the weekly assignments, but not
-everything in life is work! Hop on over to Slack if you would like to schedule a
-study call, have questions about what you should be working on, would just like
-a quick tip, or are just looking to chat about how much you love coding :)
+everything in life is work! Hop on over to Discord if you would like to schedule
+a study call, have questions about what you should be working on, would just
+like a quick tip, or are just looking to chat about how much you love coding :)
 
 Please use your main class channel as much as possible, and reply in threads to
 keep the main discussion feed easier to follow.
