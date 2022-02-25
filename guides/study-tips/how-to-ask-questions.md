@@ -54,7 +54,7 @@ people: start practicing now!
 You know you are not completely understanding the concept/explanation but do not
 know how to transform this into a useful question.
 
-_Solution_
+> _Solution_
 
 There are several ways to ask a question when you are not sure how to frame it:
 
@@ -84,7 +84,7 @@ Ask for an example:
 You lack a fundamental understanding of a basic concept, which prevents you from
 understanding the new information.
 
-_Solution_
+> _Solution_
 
 This situation applies when you have not mastered the underlying basic concepts
 yet and therefore cannot understand the explanation of the teacher (or reading

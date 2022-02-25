@@ -45,40 +45,29 @@ Pay special attention to:
 
 ## Good Reads
 
-**About Learning to Code**
-
-- [Learn to Program in 21 Days](https://landing.athabascau.ca/bookmarks/view/2852968/the-easiest-way-to-teach-yourself-c-in-21-days)
-- [The First 20 Hours](https://www.youtube.com/watch?v=5MgBikgcWnY)
-- [Effective Learning](https://github.com/hackyourfuturebelgium/learning)
-- [How to increase focus and productivity](https://github.com/HackYourFutureBelgium/hack-the-talks/blob/master/How_to_increase_focus%26productivity.pdf)
-- [The WORST Study Habit for Software Developers](https://www.youtube.com/watch?v=rfVd-r79OL4)
-
-**Read Your Code Out Loud**
-
-Learning to read your code aloud and to pronounce the strange syntax in
-JavaScript is _super important_! Practice alone, practice with a friend, record
-yourself and play it back. When you watch video tutorials pay close attention
-and practice repeating how the teacher pronounces their code.
-
-- [Why this is so important](https://www.youtube.com/watch?v=g1ib43q3uXQ&feature=youtu.be&t=1209)
-- [ASCII Pronunciation Rules for Programmers](https://blog.codinghorror.com/ascii-pronunciation-rules-for-programmers/)
-- [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
-
-**A paper notebook**
-
-- Nothing beats a pencil and paper for sketching diagrams or taking down a quick
-  note.
-
-**Tracking Your Progress**
-
-- [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/)
-- [Keep a Study Journal](https://teachthought.com/literacy/20-types-of-learning-journals-that-help-students-think/)
-- [Weekly Review Day](https://www.youtube.com/watch?v=PlTrxpNaZI8)
-
-**Markdown (for taking pretty notes)**
-
-- [Tutorial](https://www.markdowntutorial.com)
-- [Reference](https://guides.github.com/features/mastering-markdown/)
+- **About Learning to Code**
+  - [Learn to Program in 21 Days](https://landing.athabascau.ca/bookmarks/view/2852968/the-easiest-way-to-teach-yourself-c-in-21-days)
+  - [The First 20 Hours](https://www.youtube.com/watch?v=5MgBikgcWnY)
+  - [Effective Learning](https://github.com/hackyourfuturebelgium/learning)
+  - [How to increase focus and productivity](https://github.com/HackYourFutureBelgium/hack-the-talks/blob/master/How_to_increase_focus%26productivity.pdf)
+  - [The WORST Study Habit for Software Developers](https://www.youtube.com/watch?v=rfVd-r79OL4)
+- **Read Your Code Out Loud**: Learning to read your code aloud and to pronounce
+  the strange syntax in JavaScript is _super important_! Practice alone,
+  practice with a friend, record yourself and play it back. When you watch video
+  tutorials pay close attention and practice repeating how the teacher
+  pronounces their code.
+  - [Why this is so important](https://www.youtube.com/watch?v=g1ib43q3uXQ&feature=youtu.be&t=1209)
+  - [ASCII Pronunciation Rules for Programmers](https://blog.codinghorror.com/ascii-pronunciation-rules-for-programmers/)
+  - [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
+- **A paper notebook**
+  - Nothing beats a pencil and paper for sketching diagrams or taking down a
+    quick note. **Tracking Your Progress**
+  - [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/)
+  - [Keep a Study Journal](https://teachthought.com/literacy/20-types-of-learning-journals-that-help-students-think/)
+  - [Weekly Review Day](https://www.youtube.com/watch?v=PlTrxpNaZI8)
+- **Markdown (for taking pretty notes)**
+  - [Tutorial](https://www.markdowntutorial.com)
+  - [Reference](https://guides.github.com/features/mastering-markdown/)
 
 ## Time Management Tools
 

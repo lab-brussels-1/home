@@ -9,7 +9,7 @@ Learning to read, explain, and modify existing code is a crucial skill to learn
 early in your programming life. Besides being an effective learning strategy,
 this is also what you'll spend most of your time doing as a programmer.
 
-## Don't rush, understand!
+## Don't rush, understand
 
 Programming is hard. It's better to study slowly and learn from your mistakes
 than to code quickly and not understand what you wrote.

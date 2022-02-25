@@ -46,7 +46,7 @@ for your own reading material and videos. ​There is a lot of good material on
 the internet, which you can make use of. ​Also, if you find a resource that you
 think is better than what we offer in the curriculum, please let us know.
 
-## Don’t just read, code it!
+## Don’t just read, code it
 
 As explained in the previous section, reading about code, or listening to your
 teacher about code,​ is not the same as actually studying code!​ It is
