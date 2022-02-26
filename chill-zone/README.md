@@ -81,3 +81,9 @@ Practice your CSS
 ### Noises
 
 - [tone.js](https://tonejs.github.io/)
+
+---
+
+## Other Cool Programming Things
+
+- [Sonic Pi](https://sonic-pi.net/)
