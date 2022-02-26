@@ -13,8 +13,8 @@ cannot, you ​have to ask for help.
 In HackYourFuture there are several ways to ask for help:
 
 - Ask your classmate or a student from another class
-- Ask in Slack (preferably in your classroom channel)
-- Approach a teacher during breaks or through slack in a group
+- Ask in Discord (preferably in your classroom channel)
+- Approach a teacher during breaks or through Discord in a group
 - Ask HYF staff to connect you to a graduate or teacher for individual sessions
 
 Nevertheless, we often notice students not asking for help is the prime reason

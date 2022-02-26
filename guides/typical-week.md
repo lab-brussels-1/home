@@ -1,7 +1,7 @@
 # Typical Week
 
 Throughout the HYF course and your overall career as a programmer, you will
-_control your own fate_. 35 hours of study is just the bare minimum to get by at
+_control your own fate_. 25 hours of study is just the bare minimum to get by at
 HYF, not enough to fully prepare you for your first job.
 
 The more you know and the harder you work, the faster you will find yourself in

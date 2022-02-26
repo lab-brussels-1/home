@@ -3,7 +3,7 @@
 You will be required to create a `check-in` issue for each module. These
 check-ins are how you will share your individual progress with your classmates.
 Coaches, peers and HYF team will read your check-in to know how we can help you.
-Coaches will also use your Wednesday Check-Ins to prepare for review calls and
+Coaches will also use your Thursday Check-Ins to prepare for review calls and
 Sunday Class.
 
 ## Issue Description
@@ -29,7 +29,7 @@ comment:
 - **Sunday Prep Work**: Begin organizing your prep work for the following
   Sunday.
 
-When you have posted your Wednesday Check-in comment please add the `week-x`
+When you have posted your Thursday Check-in comment please add the `week-x`
 label to your issue, so we know it's ready for review.
 
 After reading your check-in, a coach or HYF team member will label it

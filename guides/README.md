@@ -53,7 +53,7 @@ _Workflows_, only now the programming languages will be more complex.
 grow after you graduate from HYF as you practice the skills in your web and add
 rings of new languages and technologies.
 
-![Curriculum Spider Web](./assets/curriculum-spider-web.svg)
+<img width="600px" src="./assets/curriculum-spider-web.svg"/>
 
 ## You are in Control
 
