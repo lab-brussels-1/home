@@ -6,11 +6,15 @@ export const learner = (
 
   // --- scoped utilities for generating links ---
 
-  const projectSearch = (label = '', linkText = label) =>
-    `[${linkText}](${repoURL}/projects/${modules.board}?card_filter_query=author%3A${user}+label%3A${label})`;
+  const projectSearch = (label = '', linkText = label, role = 'assignee') =>
+    `[${linkText}](${repoURL}/projects/${modules.board}?card_filter_query=${role}%3A${user}+label%3A${label})`;
 
-  const issuesSearch = (label = '', linkText = label) =>
-    `[${linkText}](${repoURL}/issues/?q=author%3A${user}+label%3A${label})`;
+  const issuesSearch = (label = [], linkText = label, role = 'assignee') =>
+    `[${linkText}](${repoURL}/issues/?q=${role}%3A${user}+${
+      Array.isArray(label)
+        ? label.map((l) => `label%3A${l}`).join('+')
+        : `label%3A${label}`
+    })`;
 
   const aList = (...rows) => rows.map((row) => row.join(' \\| ')).join('<br>');
 
@@ -35,8 +39,8 @@ export const learner = (
   const classLinks = [
     issuesSearch('check-in', 'check-ins'),
     projectSearch('deliverable', 'deliverables'),
-    issuesSearch('roll-call', 'roll-calls'),
-    issuesSearch('retro', 'retros'),
+    issuesSearch('roll-call', 'roll-calls', 'commenter'),
+    issuesSearch(['retro', 'check-in'], 'retros'),
   ];
   const issuesLinks = [
     `[opened](${repoURL}/issues?q=author%3A${user})`,
