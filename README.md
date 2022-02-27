@@ -572,6 +572,16 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 <!-- BEGIN COACHES -->
 
+## Coaches
+
+<table><tr><th> <img src="./admin/assets/avatars/bermarte.png" height="200px" width="200px" alt="bermarte avatar" /> </th><th> <h3 id="bermarte">Bernardo</h3><br><a href="https://github.com/bermarte">bermarte</a> | <a href="https://github.com/lab-brussels-1/home/discussions?discussions_q=involves%3Abermarte">discussions</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Abermarte">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Abermarte">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Abermarte">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Abermarte">mentioned</a><br> </th></tr></table>
+
+<table><tr><th> <img src="./admin/assets/avatars/samirm00.png" height="200px" width="200px" alt="samirm00 avatar" /> </th><th> <h3 id="samirm00">Samir</h3><br><a href="https://github.com/samirm00">samirm00</a> | <a href="https://github.com/lab-brussels-1/home/discussions?discussions_q=involves%3Asamirm00">discussions</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Asamirm00">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Asamirm00">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Asamirm00">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Asamirm00">mentioned</a><br> </th></tr></table>
+
+<table><tr><th> <img src="./admin/assets/avatars/talmurshidi.png" height="200px" width="200px" alt="talmurshidi avatar" /> </th><th> <h3 id="talmurshidi">Tamer</h3><br><a href="https://github.com/talmurshidi">talmurshidi</a> | <a href="https://github.com/lab-brussels-1/home/discussions?discussions_q=involves%3Atalmurshidi">discussions</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Atalmurshidi">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Atalmurshidi">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Atalmurshidi">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Atalmurshidi">mentioned</a><br> </th></tr></table>
+
+---
+
 <!-- END COACHES -->
 
 <!-- BEGIN ADMINS -->
