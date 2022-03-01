@@ -262,7 +262,7 @@ export const manageCollaborators = async (
     }),
   );
 
-  await Promise.all([
+  await Promise.allSettled([
     ...sentInvitations,
     ...booted,
     ...reTeaming,
