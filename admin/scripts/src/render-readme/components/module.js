@@ -45,7 +45,7 @@ export const module = (
 
   moduleSection += issuesSearch('check-in', 'check-ins') + ' | ';
 
-  moduleSection += projectSearch('deliverable', 'deliverables') + ' | ';
+  moduleSection += projectSearch('deliverable', 'deliverables board') + ' | ';
 
   moduleSection += issuesSearch('roll-call', 'roll-calls') + ' | ';
 

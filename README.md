@@ -45,7 +45,7 @@ Learn to plan and build web applications as a team.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"0.%20Precourse"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"0.%20Precourse"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Aroll-call)
 > |
@@ -58,7 +58,7 @@ Set up your accounts and prepare your development environment.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"1.%20Workflows"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"1.%20Workflows"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Aroll-call)
 > |
@@ -71,7 +71,7 @@ Learn the workflows you need to develop individually and in a group.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"2.%20Agile%20Development"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"2.%20Agile%20Development"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Aroll-call)
 > |
@@ -84,7 +84,7 @@ Practice collaboratively planning and developing HTML/CSS websites.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"3.%20UX%2FUI%20Design"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"3.%20UX%2FUI%20Design"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Aroll-call)
 > |
@@ -98,7 +98,7 @@ development process.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"4.%20Welcome%20to%20JS"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"4.%20Welcome%20to%20JS"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Aroll-call)
 > |
@@ -112,7 +112,7 @@ understand.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"5.%20Inside%20JS"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"5.%20Inside%20JS"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Aroll-call)
 > |
@@ -126,7 +126,7 @@ your foundations now so later you can focus on the fun stuff.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Aroll-call)
 > |
@@ -140,7 +140,7 @@ to JS coding challenges.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Aroll-call)
 > |
@@ -154,7 +154,7 @@ shared divided across team.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"8.%20Asynchronous%20Programming"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"8.%20Asynchronous%20Programming"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Aroll-call)
 > |
@@ -168,7 +168,7 @@ websites.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"9.%20Headless%20CMS"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"9.%20Headless%20CMS"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Aroll-call)
 > |
@@ -182,7 +182,7 @@ the data for your own web applications.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"10.%20Component%20Based%20Design"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"10.%20Component%20Based%20Design"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Aroll-call)
 > |
@@ -196,7 +196,7 @@ explore your first Frontend Framework.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"11.%20Individual%20Project"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"11.%20Individual%20Project"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Aroll-call)
 > |
@@ -210,7 +210,7 @@ deploying your own fullstack web app.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Acheck-in)
 > |
-> [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"12.%20Final%20Project"+label%3Adeliverable)
+> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"12.%20Final%20Project"+label%3Adeliverable)
 > |
 > [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Aroll-call)
 > |
