@@ -18,6 +18,7 @@ export const module = (
     `[${linkText}](https://github.com/${env.user}/${env.repo}/projects/${modules.board}?card_filter_query=milestone%3A${urlSafeName}+label%3A${label})`;
 
   const labelize = (name = '') => `label%3A${name}`;
+
   const issuesSearch = (label = '', linkText = label) =>
     `[${linkText}](https://github.com/${env.user}/${
       env.repo
@@ -47,7 +48,7 @@ export const module = (
 
   moduleSection += projectSearch('deliverable', 'deliverables board') + ' | ';
 
-  moduleSection += issuesSearch('roll-call', 'roll-calls') + ' | ';
+  // moduleSection += issuesSearch('roll-call', 'roll-calls') + ' | ';
 
   moduleSection += issuesSearch(['retro', 'check-in'], 'retros') + ' || ';
 
