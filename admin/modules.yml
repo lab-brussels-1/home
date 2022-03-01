@@ -5,26 +5,36 @@ path:
     description: Set up your accounts and prepare your development environment.
     url: https://github.com/hackyourfuturebelgium/precourse
     weeks: 1
+    milestone: 1
+    state: open
   - name: 1. Workflows
     description: Learn the workflows you need to develop individually and in a group.
     url: https://github.com/hackyourfuturebelgium/workflows
     weeks: 2
+    milestone: 2
+    state: open
   - name: 2. Agile Development
     description: Practice collaboratively planning and developing HTML/CSS websites.
     url: https://github.com/hackyourfuturebelgium/agile-development
     weeks: 4
+    milestone: 3
+    state: open
   - name: 3. UX/UI Design
     description: >-
       Explore design thinking process and placing your users at the center of
       your development process.
     url: https://github.com/hackyourfuturebelgium/ux-ui-design
     weeks: 2
+    milestone: 4
+    state: open
   - name: 4. Welcome to JS
     description: >-
       Learn to read small programs, and to write code that other people can
       understand.
     url: https://github.com/hackyourfuturebelgium/welcome-to-js
     weeks: 3
+    milestone: 5
+    state: open
   - name: 5. Inside JS
     description: >-
       Take a deep dive into JavaScript and explore some it's trickiest
@@ -32,45 +42,61 @@ path:
       stuff.
     url: https://github.com/hackyourfuturebelgium/inside-js
     weeks: 4
+    milestone: 6
+    state: open
   - name: 6. Behavior, Strategy, Implementation
     description: >-
       Explore problem solving in JavaScript, learn how to write and review
       solutions to JS coding challenges.
     url: https://github.com/hackyourfuturebelgium/behavior-strategy-implementation
     weeks: 3
+    milestone: 7
+    state: open
   - name: 7. Separation of Concerns
     description: >-
       Learn how to break down interactive web pages into clear tasks that can be
       shared divided across team.
     url: https://github.com/hackyourfuturebelgium/separation-of-concerns
     weeks: 3
+    milestone: 8
+    state: open
   - name: 8. Asynchronous Programming
     description: >-
       Learn how the JavaScript event loop works and how you can use API data in
       your websites.
     url: https://github.com/hackyourfuturebelgium/asynchronous-programming
     weeks: 3
+    milestone: 9
+    state: open
   - name: 9. Headless CMS
     description: >-
       Learn what a Content Management System is and explore how you use one to
       model the data for your own web applications.
     url: https://github.com/hackyourfuturebelgium/headless-cms
     weeks: 3
+    milestone: 10
+    state: open
   - name: 10. Component Based Design
     description: >-
       Practice developing Single Page Apps built from reusable UI components,
       and explore your first Frontend Framework.
     url: https://github.com/hackyourfuturebelgium/component-based-design
     weeks: 3
+    milestone: 11
+    state: open
   - name: 11. Individual Project
     description: >-
       Prepare for the final project by individually designing, planning,
       building and deploying your own fullstack web app.
     url: https://github.com/hackyourfuturebelgium/individual-project
     weeks: 2
+    milestone: 12
+    state: open
   - name: 12. Final Project
     description: >-
       Put it all together!  Work in teams to identify your target users and a
       real-world problem they face, then deliver a web app to meet their needs.
     url: https://github.com/hackyourfuturebelgium/final-project
     weeks: 6
+    milestone: 13
+    state: open
