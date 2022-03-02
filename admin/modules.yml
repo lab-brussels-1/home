@@ -25,8 +25,8 @@ path:
       your development process.
     url: https://github.com/hackyourfuturebelgium/ux-ui-design
     weeks: 2
-    milestone: 4
     state: open
+    milestone: 4
   - name: 4. Welcome to JS
     description: >-
       Learn to read small programs, and to write code that other people can

@@ -19,6 +19,9 @@
  * const { trace } = log;
  * const x = trace(1 + log(2 + 3)); // 5 then 6 with a stack trace
  * log.info(x); // 6
+ *
+ * or if you don't want to deal with all this extra stuff:
+ * const log = (thing) => (console.log(thing), thing);
  */
 
 const inlineConsoleMethods = Object.entries(console).reduce(
