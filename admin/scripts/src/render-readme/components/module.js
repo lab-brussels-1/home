@@ -50,7 +50,7 @@ export const module = (
 
   // moduleSection += issuesSearch('roll-call', 'roll-calls') + ' | ';
 
-  moduleSection += issuesSearch(['retro', 'check-in'], 'retros') + ' || ';
+  // moduleSection += issuesSearch(['retro', 'check-in'], 'retros') + ' || ';
 
   moduleSection += `[milestone](https://github.com/${env.user}/${env.repo}/milestone/${milestone})`;
 
