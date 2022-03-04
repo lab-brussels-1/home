@@ -68,5 +68,7 @@ ${activity}
 
 ${stats}
 
-</details>`;
+</details>
+<hr>
+`;
 };
