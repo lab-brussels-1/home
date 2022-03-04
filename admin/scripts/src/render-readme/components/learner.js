@@ -69,6 +69,6 @@ ${activity}
 ${stats}
 
 </details>
-<hr>
+<hr style="width:60%;align:center">
 `;
 };
