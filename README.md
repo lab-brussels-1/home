@@ -46,7 +46,9 @@ Learn to plan and build web applications as a team.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"0.%20Precourse"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/1)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/1)
 
 Set up your accounts and prepare your development environment.
 
@@ -55,7 +57,9 @@ Set up your accounts and prepare your development environment.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"1.%20Workflows"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/2)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/2)
 
 Learn the workflows you need to develop individually and in a group.
 
@@ -64,7 +68,9 @@ Learn the workflows you need to develop individually and in a group.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"2.%20Agile%20Development"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/3)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/3)
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
@@ -73,7 +79,9 @@ Practice collaboratively planning and developing HTML/CSS websites.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"3.%20UX%2FUI%20Design"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/4)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/4)
 
 Explore design thinking process and placing your users at the center of your
 development process.
@@ -83,7 +91,9 @@ development process.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"4.%20Welcome%20to%20JS"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/5)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/5)
 
 Learn to read small programs, and to write code that other people can
 understand.
@@ -93,7 +103,9 @@ understand.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"5.%20Inside%20JS"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/6)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/6)
 
 Take a deep dive into JavaScript and explore some it's trickiest features. Build
 your foundations now so later you can focus on the fun stuff.
@@ -103,7 +115,9 @@ your foundations now so later you can focus on the fun stuff.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/7)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/7)
 
 Explore problem solving in JavaScript, learn how to write and review solutions
 to JS coding challenges.
@@ -113,7 +127,9 @@ to JS coding challenges.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/8)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/8)
 
 Learn how to break down interactive web pages into clear tasks that can be
 shared divided across team.
@@ -123,7 +139,9 @@ shared divided across team.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"8.%20Asynchronous%20Programming"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/9)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/9)
 
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
@@ -133,7 +151,9 @@ websites.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"9.%20Headless%20CMS"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/10)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/10)
 
 Learn what a Content Management System is and explore how you use one to model
 the data for your own web applications.
@@ -143,7 +163,9 @@ the data for your own web applications.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"10.%20Component%20Based%20Design"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/11)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/11)
 
 Practice developing Single Page Apps built from reusable UI components, and
 explore your first Frontend Framework.
@@ -153,7 +175,9 @@ explore your first Frontend Framework.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"11.%20Individual%20Project"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/12)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/12)
 
 Prepare for the final project by individually designing, planning, building and
 deploying your own fullstack web app.
@@ -163,7 +187,9 @@ deploying your own fullstack web app.
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"12.%20Final%20Project"+label%3Adeliverable)
-> | [milestone](https://github.com/lab-brussels-1/home/milestone/13)
+> |
+> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/lab-brussels-1/home/milestone/13)
 
 Put it all together! Work in teams to identify your target users and a
 real-world problem they face, then deliver a web app to meet their needs.
@@ -397,11 +423,11 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 </details>
 
-| <img src="./admin/assets/avatars/Ufitamahoro.png" height="200px" width="200px" alt="Ufitamahoro avatar" /> | <h3 id="Ufitamahoro">Marie-Josée</h3><br>[Ufitamahoro](https://github.com/Ufitamahoro) \| [home page](https://Ufitamahoro.github.io) \| [bio](./student-bios/Ufitamahoro.md)<br>[help wanted](https://github.com/lab-brussels-1/home/discussions/categories/help-wanted?discussions_q=author%3AUfitamahoro+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/lab-brussels-1/home/discussions/categories/question?discussions_q=author%3AUfitamahoro+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/lab-brussels-1/home/discussions/categories/question?discussions_q=includes%3AUfitamahoro)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AUfitamahoro+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AUfitamahoro+label%3Adeliverable) \| [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=commenter%3AUfitamahoro+label%3Aroll-call) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AUfitamahoro+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AUfitamahoro) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AUfitamahoro) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AUfitamahoro) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AUfitamahoro) |
+| <img src="./admin/assets/avatars/Ufitamahoro.png" height="200px" width="200px" alt="Ufitamahoro avatar" /> | <h3 id="Ufitamahoro">Marie Josée</h3><br>[Ufitamahoro](https://github.com/Ufitamahoro) \| [home page](https://Ufitamahoro.github.io) \| [bio](./student-bios/Ufitamahoro.md)<br>[help wanted](https://github.com/lab-brussels-1/home/discussions/categories/help-wanted?discussions_q=author%3AUfitamahoro+category%3Ahelp-wanted+is:unanswered) \| [questions](https://github.com/lab-brussels-1/home/discussions/categories/question?discussions_q=author%3AUfitamahoro+category%3AQ%26A+is:unanswered) \| [all discussions](https://github.com/lab-brussels-1/home/discussions/categories/question?discussions_q=includes%3AUfitamahoro)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AUfitamahoro+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AUfitamahoro+label%3Adeliverable) \| [roll-calls](https://github.com/lab-brussels-1/home/issues/?q=commenter%3AUfitamahoro+label%3Aroll-call) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AUfitamahoro+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AUfitamahoro) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AUfitamahoro) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AUfitamahoro) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AUfitamahoro) |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Marie-Josée's github stats</summary>
+<summary>Marie Josée's github stats</summary>
 <br>
 
 ![Ufitamahoro github activity](https://ghchart.rshah.org/Ufitamahoro)
