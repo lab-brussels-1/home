@@ -8,15 +8,13 @@ path:
     milestone: 1
     state: open
   - name: 1. Workflows
-    description:
-      Learn the workflows you need to develop individually and in a group.
+    description: Learn the workflows you need to develop individually and in a group.
     url: https://github.com/hackyourfuturebelgium/workflows
     weeks: 2
     milestone: 2
     state: open
   - name: 2. Agile Development
-    description:
-      Practice collaboratively planning and developing HTML/CSS websites.
+    description: Practice collaboratively planning and developing HTML/CSS websites.
     url: https://github.com/hackyourfuturebelgium/agile-development
     weeks: 4
     milestone: 3
