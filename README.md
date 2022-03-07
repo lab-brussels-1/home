@@ -26,6 +26,7 @@
     [Randomizer](https://lab-brussels-1.github.io/home/randomizer)
   - [Coaches](#coaches)
   - [Admins](#admins)
+- [Cheat Sheets](./cheat-sheets)
 - [Guides](./guides)
   - [Study Tips](./guides/study-tips)
   - [Class Workflows](./guides/class-workflows)
