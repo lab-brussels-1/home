@@ -15,4 +15,4 @@
 - ⏲️ I Love to take pics📷 while travelling ,baking 🍰 and some indoor gardening 🎋are some of my hobbies.
 - 😃 Iam very enthusiastic person who always finds ways to make myself Happy and being positive.
 - 📫 How to reach me: [gmail](minjupgeorge@gmail.com)/[LinkedIn](https://www.linkedin.com/in/minju-george-aabb96159/)
-- Happy to be part HYF Class 17-18
+- Happy to be part of HYF  Class 17-18
