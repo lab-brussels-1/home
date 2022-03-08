@@ -2,5 +2,12 @@
   "editor.formatOnSave": true,
   "editor.renderIndentGuides": true,
   "files.autoSave": "onFocusChange",
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.words": [
+    "Dans",
+    "Epoque",
+    "maga",
+    "maison",
+    "prenom"
+  ]
 }
