@@ -2,7 +2,7 @@
 
 ![alt text](../haring_banner.jpeg)
 
-## About me
+## About me...
 
 My name is Maria.:wave:  
 I was born in Kazakhstan and raised in Russia.:earth_asia:  
