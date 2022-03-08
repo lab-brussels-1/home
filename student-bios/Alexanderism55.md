@@ -9,7 +9,7 @@
 
 - :face punch: I love **boxing**.
 - :man: I absolutely like **Elon Musk**.
-- :labtop: I am facinated by tech.
+- :computer: I am fascinated by tech.
 - :stocks: I`m very interested in **finance**.
 
 ### Aspirations
