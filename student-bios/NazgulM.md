@@ -1,10 +1,10 @@
 # About me
 
-## Nazgul Maniiasova :kissing_heart:
+## Nazgul Maniiasova
 
-![image info](./Downloads/IMG_20220308_113429.jpg)
+![My photo](Naza.jpg)
 
-⋅⋅\*Nazgul Maniiasova is former HR manager in Representative Office of ZTE
+Nazgul Maniiasova is former HR manager in Representative Office of ZTE
 Corporation in Kyrgyz Republic with 13 years experience. Nazgul specializes in
 administrative and HR technology and is responsible for educating other
 employees on using progressive systems and applications, including accounting
@@ -18,23 +18,31 @@ jogging in the park, swimming, walking with audiobooks, and travelling.⋅⋅\*
 
 ---
 
-⋅⋅\* After arriving to Belgium, unfortunately my abroad experience not so in
-demand, in this case from February 2022, I started to learn IT Programming in
-HACK YOUR FUTURE BELGIUM. ⋅⋅\*
+After arriving to Belgium, unfortunately my abroad experience not so in demand,
+in this case from February 2022, I started to learn IT Programming in HACK YOUR
+FUTURE BELGIUM.
 
 ---
 
-⋅⋅\* My hometown is Bishkek, Kyrgyzstan. ⋅⋅\*
+My hometown is Bishkek, Kyrgyzstan.
 
 ---
 
-⋅⋅\*Alma mater: Higher education in the specialty Chinese Sinology in
-[Bishkek Humanitarian University](https://https://www.bhu.kg/) Master in
-Economics in
+Alma mater: Higher education in the specialty Chinese Sinology in
+[Bishkek Humanitarian University](https://https://www.bhu.kg/)
+
+Master in Economics in
 [Kyrgyz National University](https://https://https://www.knu.kg/en/index.php?option=com_content&view=category&id=995&Itemid=674)
 
 ---
 
-⋅⋅\* My goals for 2022: Learn, learn and learn CODING. ⋅⋅\* My personal goals:
-Learn to understand myself; Learn to accept my limits; Learn how to make right
-decisions; Practice gratitude; Start good habits; Improve communication skills;
+My goals for 2022: Learn, learn and learn CODING.
+
+My personal goals:
+
+- Learn to understand myself;
+- Learn to accept my limits;
+- Learn how to make right decisions;
+- Practice gratitude;
+- Start good habits;
+- Improve communication skills;
