@@ -17,6 +17,7 @@ Six years ago I moved to Belgium following my husband assignment. The same year 
 In my free time I like drawing. You can find some of my drawings here:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='github' height='40'>](https://www.behance.net/slinkowork835e)
 
-Watching French films in the original is a real pleasure for me:
-![alt text][logo]
-[logo]:<a href="http://www.youtube.com/watch?feature=player_embedded&v=FX2ukwKgWlo" target="_blank"><img src="http://img.youtube.com/vi/FX2ukwKgWlo/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+Watching French films in the original is a real pleasure for me. 
+Here are my favorite ones:  
+
+*Le prenom* <a href="http://www.youtube.com/watch?feature=player_embedded&v=FX2ukwKgWlo" target="_blank"><img src="http://img.youtube.com/vi/FX2ukwKgWlo/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
