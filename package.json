@@ -27,8 +27,8 @@
     "@ls-lint/ls-lint": "^1.10.0",
     "cspell": "^5.9.0",
     "js-yaml": "^4.1.0",
-    "markdownlint-cli": "^0.28.1",
+    "markdownlint-cli": "^0.31.1",
     "node-fetch": "^3.2.0",
-    "prettier": "^2.3.2"
+    "prettier": "2.5.1"
   }
 }
