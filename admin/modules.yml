@@ -8,7 +8,7 @@ path:
     milestone: 1
     state: open
   - name: 1. Workflows
-    description:
+    description: >-
       Learn the workflows you need to develop individually and in a group.
     url: https://github.com/hackyourfuturebelgium/workflows
     weeks: 2
