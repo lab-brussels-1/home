@@ -256,10 +256,5 @@
   "MD048": {
     // Code fence syle
     "style": "consistent"
-  },
-
-  // Example markdownlint JSON(C) configuration with all properties set to their default value
-
-  // Default state for all rules
-  "default": true
+  }
 }
