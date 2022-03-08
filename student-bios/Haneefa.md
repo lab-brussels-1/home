@@ -19,6 +19,7 @@
 # My Goal 2022
 
  To become a developer.
+ 
  **I’ve realized that being a housewife is no longer a deterrent to my career and that age is indeed just a number! I have a long way to travel and the road is clear to me.**
 
 # About Me
