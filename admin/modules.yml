@@ -9,22 +9,12 @@ path:
     state: open
   - name: 1. Workflows
     description: >-
-<<<<<<< nazgul-bio
       Learn the workflows you need to develop individually and in a group. -
       Week 1:
-=======
-      Learn the workflows you need to develop individually and in a group.
-
-      - Week 1:
->>>>>>> main
         - Lesson Plan: [VSCode and
       Git](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/vscode-and-git.md)
         - Deliverable: [Student Bio
       PR](https://github.com/HackYourFutureBelgium/workflows/blob/master/deliverables/student-bio-pr.md)
-<<<<<<< nazgul-bio
-=======
-
->>>>>>> main
       - Week 2:
         - Lesson Plan: [GitHub Project
       Management](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/github-project-management.md)
