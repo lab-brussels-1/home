@@ -8,7 +8,14 @@ path:
     milestone: 1
     state: open
   - name: 1. Workflows
-    description: Learn the workflows you need to develop individually and in a group.
+    description: >-
+      Learn the workflows you need to develop individually and in a group.
+
+      - week 1: [VSCode and
+      Git](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/vscode-and-git.md)
+
+      - week 2: [GitHub Project
+      Management](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/github-project-management.md)
     url: https://github.com/hackyourfuturebelgium/workflows
     weeks: 2
     milestone: 2

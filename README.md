@@ -64,6 +64,11 @@ Set up your accounts and prepare your development environment.
 
 Learn the workflows you need to develop individually and in a group.
 
+- week 1:
+  [VSCode and Git](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/vscode-and-git.md)
+- week 2:
+  [GitHub Project Management](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/github-project-management.md)
+
 ### [2. Agile Development](https://github.com/hackyourfuturebelgium/agile-development): 4 weeks
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
