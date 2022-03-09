@@ -1,8 +1,8 @@
-## Hi 👋
+# Hi 👋
 
-_I'm Maha_
+I'm Maha
 
-### About me
+## About me
 
 I'm civil engineer, i'm currently learning web development.
 
@@ -20,4 +20,4 @@ I like hiking and watching movies.
 
 ### Contact me
 
-*mahashour16@gmail.com*
+mahashour16@gmail.com
