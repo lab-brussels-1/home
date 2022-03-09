@@ -1,6 +1,6 @@
 {
   "editor.formatOnSave": true,
   "editor.renderIndentGuides": true,
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "onFocusChange",
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
