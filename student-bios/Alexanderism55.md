@@ -14,5 +14,5 @@
 
 ### Aspirations
 
-- **_I aspire to be a big part of the
-  future_** -![A picture of Elon Musk](../assets/Elonmusk.jpeg)
+- **_I aspire to be a big part of the future_**
+- ![A picture of Elon Musk](assets/Elonmusk.jpeg)
