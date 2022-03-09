@@ -1,6 +1,9 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "adulting",
+    "Wilriani"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
