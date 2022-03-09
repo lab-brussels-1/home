@@ -1,4 +1,4 @@
-## Hi, I am Minju P George.
+# Hi, I am Minju P George.
 
 ## Iam a student at HackYourFuture
 
