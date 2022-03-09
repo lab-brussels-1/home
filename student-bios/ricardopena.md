@@ -40,6 +40,6 @@ My main line of study is Business administration and supply chain management but
 ## Random Photos 
 
 ![Pic1](assets/pic2)
-
+![Pic2](asets/pic4)
 
 
