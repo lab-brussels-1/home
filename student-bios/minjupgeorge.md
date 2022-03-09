@@ -18,5 +18,6 @@
   loves programming.
 - 🌱 I am currently updating my skills in web development and python with mySQL
 - ⏲️ I Love to take pics📷 while travelling ,baking 🍰 and some indoor gardening
-  🎋are some of my hobbies.n
-- I love Korean movies
+  🎋are some of my hobbies.
+- I love Korean movies. My favourite is "Boys Over Flowers".
+- ![Boys over flowers][C:\Users\BIBY\Documents\HYF-MINJU\home\student-bios\assets\images]
