@@ -6,7 +6,7 @@
 <br>
 <h2 align="center"> 🤴🏾 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🤴🏾 </h2>
 
-🤴🏾 My name is  **Zerubabel Zetahun (AKA Prince)**
+🤴🏾 My name is **Zerubabel Zetahun (AKA Prince)**
 
 🔞 I'm 22 years old .
 
@@ -36,13 +36,16 @@
 
 <h2 align="center">  𝓦𝓸𝓻𝓴𝓲𝓷𝓰 𝓞𝓷  </h2>
 
-🌋 i'm working me and my Friends company cold [GEEZ ESPORTS](https://linktr.ee/geezesport) it's working on african gamers like an esport company.
+🌋 i'm working me and my Friends company cold
+[GEEZ ESPORTS](https://linktr.ee/geezesport) it's working on african gamers like
+an esport company.
 
 🌋camera man for events and such things and editing videos and picture.
 
 🌋 working on nft project called african land.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="65"> <em><b>𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 𝓸𝓷</b>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="65">
+<em><b>𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 𝓸𝓷</b>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zerubabel4)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'>](zelelewzerubabel@gmail.com)
