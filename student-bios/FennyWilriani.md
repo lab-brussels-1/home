@@ -26,6 +26,10 @@ Working with start ups allowed me to get surface-level experience in most
 digital marketing channels, and has helped me find my interest in data analysis,
 and web design.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FennyWilriani)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/FennyWilriani/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fennyayuwill)
+
 > _A quick reminder to self whenever i stuck with the new challenge._
 
 ![Image](https://raw.githubusercontent.com/FennyWilriani/FennyWilriani/main/Capture%20banner.PNG)
