@@ -46,6 +46,7 @@ export const top = ({ env = {}, modules = {}, org = {} }) =>
   }/randomizer)
   - [Coaches](#coaches)
   - [Admins](#admins)
+- [Cheat Sheets](./cheat-sheets)
 - [Guides](./guides)
   - [Study Tips](./guides/study-tips)
   - [Class Workflows](./guides/class-workflows)

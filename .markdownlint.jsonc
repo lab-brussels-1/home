@@ -185,7 +185,9 @@
       "td",
       "img",
       "tr",
-      "code"
+      "th",
+      "code",
+      "hr"
     ]
   },
 
