@@ -2,7 +2,7 @@
 
 ## Nazgul Maniiasova
 
-<img src="Naza.jpg" width="150" height="100">
+![Photo](/student-bios/assets/Naza.jpg)
 
 Nazgul Maniiasova is former HR manager in Representative Office of ZTE
 Corporation in Kyrgyz Republic with 13 years experience. Nazgul specializes in
