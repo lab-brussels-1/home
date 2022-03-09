@@ -8,7 +8,7 @@
 <img src="Haneefa-photo.jpg" />
 -->
 
-![alt Haneefa](Haneefa-photo.jpg)
+![alt Haneefa](/assets/Haneefa-photo.jpg)
 
 ## My Values
 
