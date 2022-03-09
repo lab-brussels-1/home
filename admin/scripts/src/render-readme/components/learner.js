@@ -39,7 +39,7 @@ export const learner = (
   const classLinks = [
     issuesSearch('check-in', 'check-ins'),
     projectSearch('deliverable', 'deliverables'),
-    issuesSearch('roll-call', 'roll-calls', 'commenter'),
+    // issuesSearch('roll-call', 'roll-calls', 'commenter'),
     issuesSearch(['retro', 'check-in'], 'retros'),
   ];
   const issuesLinks = [
@@ -68,5 +68,7 @@ ${activity}
 
 ${stats}
 
-</details>`;
+</details>
+<hr style="width:60%;align:center">
+`;
 };

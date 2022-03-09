@@ -1,4 +1,4 @@
-# Cheatsheets
+# Cheat Sheets
 
 ## CSS – Cascading Style Sheets
 
