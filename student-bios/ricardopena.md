@@ -44,12 +44,12 @@ I'm also a freelance for:
 
 ## Random Photos
 
-![Pic1](./assets/pic2.jpg)
+![Pic1](assets/pic2.jpg)
 
-![Pic2](./assets/pic4.jpg)
+![Pic2](assets/pic4.jpg)
 
-![pick7](./assets/pic7.jpg)
+![pick7](/assets/pic7.jpg)
 
-![rick](./assets/rick.jpg)
+![rick](/assets/rick.jpg)
 
 <img src="student-bios/assets/rick.jpg">
