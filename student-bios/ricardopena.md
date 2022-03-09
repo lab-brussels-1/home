@@ -7,10 +7,11 @@
 Hey there, my name is Ricardo, I was born in El Salvador, I have visited over 15
 countries and now I live in Antwerp, Belgium.
 
-- [Favorite quotes](#favorite-quotes)
-- [Skills](#skills)
-- [Hobbies](#hobbies)
-- [Random Photos](#random-photos)
+
+  - [Favorite quotes](#favorite-quotes)
+  - [Skills](#skills)
+  - [Hobbies](#hobbies)
+  - [Random Photos](#random-photos)
 
 ## Favorite quotes
 
@@ -47,3 +48,5 @@ I'm also a freelance for:
 ![Pic2](./assets/pic4.jpg)
 
 ![alt text](./assets/pic7.jpg)
+
+![alt text](./assets/rick.jpg)
