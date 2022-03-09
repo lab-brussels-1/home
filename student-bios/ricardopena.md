@@ -1,13 +1,14 @@
-# Student Bio :earth_americas:
+# Student Bio :earth_americas
 
-## Ricardo Pena.
+## Ricardo Pena
 
-> #### Jack of all trades!
+> ### Jack of all trades
 
 Hey there, my name is Ricardo, I was born in El Salvador, I have visited over 15
 countries and now I live in Antwerp, Belgium.
 
-
+- [Student Bio :earth_americas](#student-bio-earth_americas)
+  - [Ricardo Pena](#ricardo-pena)
   - [Favorite quotes](#favorite-quotes)
   - [Skills](#skills)
   - [Hobbies](#hobbies)
@@ -51,4 +52,4 @@ I'm also a freelance for:
 
 ![rick](./assets/rick.jpg)
 
-<img src="student-bios/assets/rick.jpg"> 
+<img src="student-bios/assets/rick.jpg">
