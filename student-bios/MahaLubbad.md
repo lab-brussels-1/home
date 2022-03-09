@@ -1,6 +1,6 @@
 ## Hi  👋
 
-*I'm Maha*  :smiley:
+*I'm Maha*  
 
 ### About me
 I'm civil engineer, i'm currently learning web development.
