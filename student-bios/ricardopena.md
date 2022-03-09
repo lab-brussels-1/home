@@ -47,6 +47,8 @@ I'm also a freelance for:
 
 ![Pic2](./assets/pic4.jpg)
 
-![alt text](./assets/pic7.jpg)
+![pick7](./assets/pic7.jpg)
 
-![alt text](./assets/rick.jpg)
+![rick](./assets/rick.jpg)
+
+<img src="student-bios/assets/rick.jpg"> 
