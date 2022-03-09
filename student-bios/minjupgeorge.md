@@ -1,4 +1,4 @@
-### Hi, I am Minju P George.
+## Hi, I am Minju P George.
 
 ## Iam a student at HackYourFuture
 
@@ -19,3 +19,4 @@
 - 🌱 I am currently updating my skills in web development and python with mySQL
 - ⏲️ I Love to take pics📷 while travelling ,baking 🍰 and some indoor gardening
   🎋are some of my hobbies.n
+- I love Korean movies
