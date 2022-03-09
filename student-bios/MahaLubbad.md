@@ -6,7 +6,7 @@ _I'm Maha_
 
 I'm civil engineer, i'm currently learning web development.
 
-### Languages..
+### Languages
 
 1. Arabic
 2. English
@@ -18,6 +18,6 @@ I like hiking and watching movies.
 
 ![I like the nature..](https://logisel.org/ville-emmerin/wordpress/wp-content/uploads/2021/03/tree-276014__340.jpg)
 
-### Contact me ..
+### Contact me
 
 *mahashour16@gmail.com*
