@@ -1,6 +1,10 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "adulting",
+    "warhammer",
+    "Wilriani"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
