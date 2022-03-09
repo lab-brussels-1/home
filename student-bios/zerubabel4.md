@@ -8,11 +8,11 @@
 
 🤴🏾 My name is  **Zerubabel Zetahun (AKA Prince)**
 
-🔞 i'm 22 years old .
+🔞 I'm 22 years old .
 
-🌎 i came from ethiopia.
+🌎 I came from ethiopia.
 
-💻 i'm learning web devlopment at HYF.
+💻 I'm learning web devlopment at HYF.
 
 💻 how i feel when my code work ⬇️⬇️⬇️
 
