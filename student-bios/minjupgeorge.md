@@ -19,6 +19,7 @@
 - 🌱 I am currently updating my skills in web development and python with mySQL
 - ⏲️ I Love to take pics📷 while travelling ,baking 🍰 and some indoor gardening
   🎋are some of my hobbies.
-- 
+- Recent Pictured I have captured at Tervuren,Flanders
+ <img src="assets/IMG_1735.JPG" style="border-radius:10px; width:300px">
 - I love Korean movies. My favourite is "Boys Over Flowers".
 - ![Boys over flowers](https://upload.wikimedia.org/wikipedia/en/6/65/Boys_Over_Flowers_%28TV_series%29_poster.jpg)
