@@ -20,4 +20,4 @@
 - ⏲️ I Love to take pics📷 while travelling ,baking 🍰 and some indoor gardening
   🎋are some of my hobbies.
 - I love Korean movies. My favourite is "Boys Over Flowers".
-- ![Boys over flowers](C:\Users\BIBY\Documents\HYF-MINJU\home\student-bios\assets\images\boysoverflowers.png)
+- ![Boys over flowers](https://upload.wikimedia.org/wikipedia/en/6/65/Boys_Over_Flowers_%28TV_series%29_poster.jpg)
