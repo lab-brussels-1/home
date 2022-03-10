@@ -1,5 +1,9 @@
 # Andrii Vlasiuk
 
+:open_hands:
+
+![Me](https://scontent-bru2-1.xx.fbcdn.net/v/t1.18169-9/22196441_704652599728918_4988942917679053456_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=aH0pbLI5FocAX9Mxu0a&_nc_ht=scontent-bru2-1.xx&oh=00_AT-cP07aInucteKc-WJzyViGbxYdPFJ2b3mdnFcbiPQ8vQ&oe=624EB9CD)
+
 ## My name is Andrii
 
 I am from Ukraine. Currently live in Belgium
