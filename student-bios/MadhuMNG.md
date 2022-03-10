@@ -10,9 +10,9 @@ I am Madhu.I am basically from India. Since 5 years I am staying in Belgium.
 
 ### Education
 
-- I have done Master in Business Adninistration from Bangalore University
-- I am currenting learning French-B1 level
-- I am a student in HYF
+- I have done Master in Business Adninistration from Bangalore University.
+- I am currenting learning French-B1 level.
+- I am a student in HYF.
 
 ## Work Experience
 
