@@ -6,3 +6,10 @@ I am Ukrainian
 
 I like to walk with my daughter :girl:. I love cooking special foods. To be
 honest I like sleep!
+
+## A few words about me
+
+Funny :smiley:, smart , beautiful :sparkles:
+
+P.S Now in my country is a war, and I am very said about this :pensive: , but i
+trust will be everything well :sun_with_face:
