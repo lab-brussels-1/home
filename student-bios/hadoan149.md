@@ -14,4 +14,4 @@ Professionally, I love marketing. I am working as a working student for a tech c
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/thanhhadoan/) 👨🏻‍💻
 - Send me an email [Email](mailto:ha.doan149@gmail.com) 💌
-  ![A picture of me](./assets/IMG_20220220_180930.jpg)
+![A picture of me](assets\hadoanpic.jpg)
