@@ -6,12 +6,12 @@
 
 My name is Zeynep :tada:
 
-I'm *mathematician*
+I'm _mathematician_
 
 ```text
 I like
-- art 
-- nature 
+- art
+- nature
 - animals
 - chess
 - flowers
