@@ -25,7 +25,7 @@ I want to become a software developer
 - completing french course
 - learning how IT system works
 
-## my hobbies :snowflake
+## my hobbies :snowflake:
 
 1. swimming
 2. playing chess
