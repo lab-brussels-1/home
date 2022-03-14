@@ -1,6 +1,6 @@
 # I love modern `ART`. I am for `PEACE`. I learn `CODING`
 
-![alt text](../haring_banner.jpeg)
+![alt text](./assets/haring_banner.jpeg)
 
 ## About me
 
