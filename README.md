@@ -84,7 +84,7 @@ Learn the workflows you need to develop individually and in a group.
 > [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/lab-brussels-1/home/milestone/3)
 
-Practice collaboratively planning and developing HTML/CSS websites.
+Practice collaboratively planning in a team and learn HTML/CSS at your own pace.
 
 - **Week 1**: Chapters 0, 1 - Following Plans
   - Lesson Plan:
