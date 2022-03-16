@@ -14,7 +14,7 @@ The cornerstone of the homework submission process is GitHub Issues
 issue as a high-tech post-it note. 
 
 You will be required to create two kinds of issues: 
-- one **Check-in** issue per module (such as Daniel: Workflows, 2 weeks), adding a comment about your progress each Thursday and an label (week-1, week-2, etc.). After a review by a coach, we will add the label checked-1, checked-2, etc.
+- one **Check-in** issue per module (such as Daniel: Workflows, 2 weeks), adding a comment about your progress each Thursday and a label (week-1, week-2, etc.). After a review by a coach, we will add the label checked-1, checked-2, etc.
 - one **Deliverable** issue per assignment (1 per student for individual projects, but only 1 per group for team projects).
 
 ## Task Lists
