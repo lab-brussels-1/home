@@ -12,7 +12,7 @@ The cornerstone of the homework submission process is GitHub Issues
 \([link 1](https://help.github.com/en/github/managing-your-work-on-github/about-issues),
 [link 2](https://guides.github.com/features/issues/)\). You can think of an
 issue as a high-tech post-it note. Each week you will be required to create 2
-issues: a **Deliverable Issue** (in case of a group project, one per group) and a Thursday **Check-in**.
+issues: a **Check-in** (adding a comment about your progress each Thursday) and a **Deliverable** (1 per person for individual projects, but only 1 per group for team projects).
 
 ## Task Lists
 
