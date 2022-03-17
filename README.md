@@ -84,7 +84,27 @@ Learn the workflows you need to develop individually and in a group.
 > [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/lab-brussels-1/home/milestone/3)
 
-Practice collaboratively planning and developing HTML/CSS websites.
+Practice collaboratively planning in a team and learn HTML/CSS at your own pace.
+
+- **Week 1**: Chapters 0, 1 - Following Plans
+  - Lesson Plan:
+    [Planning and Collaborating](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/planning-and-collaborating.md)
+  - Deliverable:
+    [All About Trees](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/all-about-trees)
+- **Week 2**: Chapter 2 - Writing Plans
+  - Lesson Plan:
+    [User-Centered Development](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/user-centered-development.md)
+  - Deliverable:
+    [Loruki Rebuild](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/loruki-rebuild.md)
+- **Week 3**: Chapter 3 - Adapting Plans
+  - Lesson Plan:
+    [Being Agile](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/being-agile.md)
+  - Deliverable: Begin
+    [HYF Redesign](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/hyf-redesign.md)
+- **Week 4**: Chapter 3 - Adapting Plans
+  - Lesson Plan: Group Project Session
+  - Deliverable: Finish
+    [HYF Redesign](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/hyf-redesign.md)
 
 ### [3. UX/UI Design](https://github.com/hackyourfuturebelgium/ux-ui-design): 2 weeks
 

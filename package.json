@@ -6,7 +6,7 @@
   "scripts": {
     "format": "prettier --write ./",
     "format:check": "prettier --check ./",
-    "spell-check": "cspell  \"./**\"",
+    "spell-check": "cspell -v \"./**\"",
     "lint:ls": "ls-lint",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ ",
     "update:people": "node ./admin/scripts/bin/update-collaborators.js && node ./admin/scripts/bin/render-readme.js",
@@ -25,10 +25,13 @@
   "license": "MIT",
   "devDependencies": {
     "@ls-lint/ls-lint": "^1.10.0",
-    "cspell": "^5.9.0",
+    "cspell": "^5.18.5",
     "js-yaml": "^4.1.0",
-    "markdownlint-cli": "^0.28.1",
+    "markdownlint-cli": "^0.31.1",
     "node-fetch": "^3.2.0",
     "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "i": "^0.3.7"
   }
 }
