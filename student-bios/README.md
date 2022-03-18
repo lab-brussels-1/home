@@ -1,1 +1,1 @@
-# Student-bios
+# Student bios
