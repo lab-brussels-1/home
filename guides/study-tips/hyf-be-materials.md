@@ -6,11 +6,10 @@ _Suggested Study_ resources, the _Sunday Prep_ materials, and individual
 _Exercises_. You will write your _Thursday Check-Ins_ in this issue. `check-in`
 issues won't be placed on the module project board.
 
-- [HYF Be Materials](#hyf-be-materials)
-  - [Module Exercises](#module-exercises)
-  - [Suggested Study](#suggested-study)
-  - [Sunday Prep](#sunday-prep)
-  - [Extra Support](#extra-support)
+- [Module Exercises](#module-exercises)
+- [Suggested Study](#suggested-study)
+- [Sunday Prep](#sunday-prep)
+- [Extra Support](#extra-support)
 
 ## Module Exercises
 
@@ -97,8 +96,14 @@ to you to find the method that works best for you.
 
 ## Extra Support
 
-If feel that you need extra support, let us know on Discord or with your
-Thursday Check-in. We'll get in touch and together find a solution to help you
-move forward. This might include individual support from a coach, pairing you
-with a study-buddy, or helping to find study resources that better fit your
-needs.
+<<<<<<< Updated upstream If feel that you need extra support, let us know on
+Discord or with your Thursday Check-in. We'll get in touch and together find a
+solution to help you move forward. This might include individual support from a
+coach, pairing you with a study-buddy, or helping to find study resources that
+better fit your needs. ======= If feel that you need extra support, let us know
+on Slack or with your Wednesday Check-in. We'll get in touch and together find a
+solution to help you move forward. This might include individual support from a
+coach, pairing you with a study-buddy, or helping to find study resources that
+better fit your needs.
+
+> > > > > > > Stashed changes
