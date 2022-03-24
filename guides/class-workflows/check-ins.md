@@ -8,12 +8,16 @@ Sunday Class.
 
 ## Module Check-in Issue Checklist
 
-Your issue should look like this: Elias: Agile Development, 4 weeks
-- add yourself as assignee to it, 
-- add the labels check-in & week-1 
-- add it to the Project Board: Deliverables 
-- add the Milestone: 2. Agile Development 
-- add your comment using the template
+Your issue should have a title such as `Elias: Agile Development, 4 weeks`
+and make sure you go through these steps:
+
+```markdown
+[] add yourself as assignee to it, 
+[] add the labels check-in & week-1 
+[] add it to the Project Board: Deliverables 
+[] add the Milestone: 2. Agile Development 
+[] add your comment using the template
+```
 
 ## Issue Description
 
