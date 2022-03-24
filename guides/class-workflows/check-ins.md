@@ -6,6 +6,15 @@ Coaches, peers and HYF team will read your check-in to know how we can help you.
 Coaches will also use your Thursday Check-Ins to prepare for review calls and
 Sunday Class.
 
+## Module Check-in Issue Checklist
+
+Your issue should look like this: Elias: Agile Development, 4 weeks
+- [] add yourself as assignee to it, 
+- [] add the labels check-in & week-1 
+- [] add it to the Project Board: Deliverables 
+- [] add the Milestone: 2. Agile Development 
+- [] add your comment using the template
+
 ## Issue Description
 
 In the main issue description you will copy-paste the module's learning
@@ -16,7 +25,7 @@ track your progress through the module and prioritize your study time.
 
 Every Thursday you will add a comment to your check-in issue summarizing your
 progress over the last week. You will need to write these sections in your
-comment:
+comment using the given template:
 
 - **I Need Help with**: What are you having trouble understanding? What parts of
   the homework are you struggling to complete?
