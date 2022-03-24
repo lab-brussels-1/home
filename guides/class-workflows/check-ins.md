@@ -16,7 +16,7 @@ and make sure you go through these steps:
 [ ] add the labels check-in & week-x  
 [ ] add it to the Project Board: Deliverables 
 [ ] add the appropriate milestone (eg. 2. Agile Development) 
-[ ] add your comment using the template
+[ ] add your comment using the template on every Thursday
 ```
 
 ## Issue Description
