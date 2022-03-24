@@ -13,9 +13,9 @@ and make sure you go through these steps:
 
 ```markdown
 [ ] add yourself as assignee to it, 
-[ ] add the labels check-in & week-1 
+[ ] add the labels check-in & week-x  
 [ ] add it to the Project Board: Deliverables 
-[ ] add the Milestone: 2. Agile Development 
+[ ] add the appropriate milestone (eg. 2. Agile Development) 
 [ ] add your comment using the template
 ```
 
