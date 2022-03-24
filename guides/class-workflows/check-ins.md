@@ -8,15 +8,14 @@ Sunday Class.
 
 ## Module Check-in Issue Checklist
 
-Your issue should have a title such as `Elias: Agile Development, 4 weeks`
-and make sure you go through these steps:
+Your issue should have a title such as `Elias: Agile Development, 4 weeks` and
+make sure you go through these steps:
 
 ```markdown
-[ ] add yourself as assignee to it, 
-[ ] add the labels check-in & week-x  
-[ ] add it to the Project Board: Deliverables 
-[ ] add the appropriate milestone (eg. 2. Agile Development) 
-[ ] add your comment using the template on every Thursday
+[ ] add yourself as assignee to it, [ ] add the labels check-in & week-x  
+[ ] add it to the Project Board: Deliverables [ ] add the appropriate milestone
+(eg. 2. Agile Development) [ ] add your comment using the template on every
+Thursday
 ```
 
 ## Issue Description
