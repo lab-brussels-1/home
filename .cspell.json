@@ -6,6 +6,8 @@
     "package.json",
     "package-lock.json",
     "**/*.mp4",
-    "**/*.svg"
+    "**/*.svg",
+    "**/*.jpg",
+    "**/*.png"
   ]
 }
