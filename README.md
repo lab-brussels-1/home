@@ -96,6 +96,7 @@ Practice collaboratively planning and developing HTML/CSS websites.
     [User-Centered Development](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/user-centered-development.md)
   - Deliverable:
     [Loruki Rebuild](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/loruki-rebuild.md)
+- **Break Week!**
 - **Week 3**: Chapter 3 - Adapting Plans
   - Lesson Plan:
     [Being Agile](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/being-agile.md)
