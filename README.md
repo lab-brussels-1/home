@@ -119,6 +119,17 @@ Practice collaboratively planning and developing HTML/CSS websites.
 Explore design thinking process and placing your users at the center of your
 development process.
 
+- **Week 1**: Chapter 1
+  - Lesson Plan:
+    [Design Thinking](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/design-thinking.md)
+  - Deliverable:
+    [Begin the Practical Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
+- **Week 2**: Chapters 2, 3
+  - Lesson Plan:
+    [Gestalt Principles & Figma](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/gestalt-and-figma.md)
+  - Deliverable:
+    [Complete the Practical Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
+
 ### [4. Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js): 3 weeks
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)

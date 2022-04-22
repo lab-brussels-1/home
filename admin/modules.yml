@@ -62,6 +62,19 @@ path:
     description: >-
       Explore design thinking process and placing your users at the center of
       your development process.
+
+      - **Week 1**: Chapter 1
+        - Lesson Plan: [Design
+      Thinking](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/design-thinking.md)
+        - Deliverable: [Begin the Practical
+      Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
+
+      - **Week 2**: Chapters 2, 3
+        - Lesson Plan: [Gestalt Principles &
+      Figma](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/gestalt-and-figma.md)
+        - Deliverable: [Complete the Practical
+      Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
+
     url: https://github.com/hackyourfuturebelgium/ux-ui-design
     weeks: 2
     state: open
