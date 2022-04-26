@@ -142,6 +142,23 @@ development process.
 Learn to read small programs, and to write code that other people can
 understand.
 
+- **Week 1**: Chapters 0, 1, 2 k
+
+  - Lesson Plan:
+    [Computers and Developers](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/computers-and-developers)
+  - Study Priorities: _What is Programming?_ and _Just Enough JS_
+
+- **Week 2**: Chapters 2, 3
+
+  - Lesson Plan:
+    [DevTools Debugger](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/devtools-debugger)
+  - Study Priorities: _Just Enough JS_ and _Understanding Programs_
+
+- **Week 3**: Chapter 4
+  - Lesson Plan:
+    [Writing and Reviewing](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/writing-and-reviewing)
+  - Study Priorities: _Developing Programs_
+
 ### [5. Inside JS](https://github.com/hackyourfuturebelgium/inside-js): 4 weeks
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Acheck-in)
