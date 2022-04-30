@@ -66,15 +66,14 @@ path:
       - **Week 1**: Chapter 1
         - Lesson Plan: [Design
       Thinking](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/design-thinking.md)
-        - Deliverable: [Begin the Practical
+        - Deliverable: [Practical
       Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
 
       - **Week 2**: Chapters 2, 3
         - Lesson Plan: [Gestalt Principles &
       Figma](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/gestalt-and-figma.md)
-        - Deliverable: [Complete the Practical
-      Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
-
+        - Deliverable: [Co-Design your Home
+      Page](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/co-design-your-home-page)
     url: https://github.com/hackyourfuturebelgium/ux-ui-design
     weeks: 2
     state: open
@@ -98,7 +97,6 @@ path:
         - Lesson Plan: [Writing and
       Reviewing](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/writing-and-reviewing)
         - Study Priorities: _Developing Programs_
-
     url: https://github.com/hackyourfuturebelgium/welcome-to-js
     weeks: 3
     milestone: 5

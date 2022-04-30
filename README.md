@@ -123,12 +123,12 @@ development process.
   - Lesson Plan:
     [Design Thinking](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/design-thinking.md)
   - Deliverable:
-    [Begin the Practical Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
+    [Practical Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
 - **Week 2**: Chapters 2, 3
   - Lesson Plan:
     [Gestalt Principles & Figma](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/gestalt-and-figma.md)
   - Deliverable:
-    [Complete the Practical Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
+    [Co-Design your Home Page](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/co-design-your-home-page)
 
 ### [4. Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js): 3 weeks
 
@@ -142,7 +142,7 @@ development process.
 Learn to read small programs, and to write code that other people can
 understand.
 
-- **Week 1**: Chapters 0, 1, 2 k
+- **Week 1**: Chapters 0, 1, 2
 
   - Lesson Plan:
     [Computers and Developers](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/computers-and-developers)
