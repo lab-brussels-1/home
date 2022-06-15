@@ -14,7 +14,7 @@
   - [Quick Links](#modules)
   - [Details](https://lab-brussels-1.github.io/home/modules)
   - [Study Board](https://github.com/lab-brussels-1/home/projects/1)
-- [Discord](https://discord.com/HackYourFuture)
+- [Discord](https://discord.com/channels/894607053367181402/)
 - [Issues](https://github.com/lab-brussels-1/home/issues)
 - [Pull Requests](https://github.com/lab-brussels-1/home/pulls)
 - People
@@ -178,6 +178,21 @@ your foundations now so later you can focus on the fun stuff.
 
 Explore problem solving in JavaScript, learn how to write and review solutions
 to JS coding challenges.
+
+- **Week 1**: Chapter 1
+  - Lesson Plan:
+    [Solution Write-Ups](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/solution-write-ups.md)
+  - Study Priorities: Try to write up at least 3 solutions during the week.
+- **Week 2**: Chapters 2
+  - Lesson Plan:
+    [Function Design](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/function-design.md)
+  - Study Priorities: Try to solve 2-4 exercises from each section of the
+    chapter
+- **Week 3**: Chapter 3
+  - Lesson Plan:
+    [Code Review](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/code-review.md)
+  - Deliverable:
+    [Practice Code Review](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/deliverables/practice-code-review.md)
 
 ### [7. Separation of Concerns](https://github.com/hackyourfuturebelgium/separation-of-concerns): 3 weeks
 
@@ -539,20 +554,6 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/SWAPNACHEMBOTH.png" height="200px" width="200px" alt="SWAPNACHEMBOTH avatar" /> | <h3 id="SWAPNACHEMBOTH">Swapna</h3><br>[SWAPNACHEMBOTH](https://github.com/SWAPNACHEMBOTH) \| [home page](https://SWAPNACHEMBOTH.github.io) \| [bio](./student-bios/SWAPNACHEMBOTH.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ASWAPNACHEMBOTH+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3ASWAPNACHEMBOTH+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ASWAPNACHEMBOTH+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3ASWAPNACHEMBOTH) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3ASWAPNACHEMBOTH) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3ASWAPNACHEMBOTH) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3ASWAPNACHEMBOTH) |
-| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Swapna's github stats</summary>
-<br>
-
-![SWAPNACHEMBOTH github activity](https://ghchart.rshah.org/SWAPNACHEMBOTH)
-
-![SWAPNACHEMBOTH github stats](https://github-readme-stats.vercel.app/api?username=SWAPNACHEMBOTH&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
 | <img src="./admin/assets/avatars/zerubabel4.png" height="200px" width="200px" alt="zerubabel4 avatar" /> | <h3 id="zerubabel4">Zerubabel</h3><br>[zerubabel4](https://github.com/zerubabel4) \| [home page](https://zerubabel4.github.io) \| [bio](./student-bios/zerubabel4.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Azerubabel4+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3Azerubabel4+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Azerubabel4+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Azerubabel4) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Azerubabel4) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Azerubabel4) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Azerubabel4) |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
@@ -589,13 +590,21 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 ## Coaches
 
+<table><tr><th> <img src="./admin/assets/avatars/Banjopalmo.png" height="200px" width="200px" alt="Banjopalmo avatar" /> </th><th> <h3 id="Banjopalmo">Benjamin</h3><br><a href="https://github.com/Banjopalmo">Banjopalmo</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3ABanjopalmo">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3ABanjopalmo">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3ABanjopalmo">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3ABanjopalmo">mentioned</a><br> </th></tr></table>
+
 <table><tr><th> <img src="./admin/assets/avatars/bermarte.png" height="200px" width="200px" alt="bermarte avatar" /> </th><th> <h3 id="bermarte">Bernardo</h3><br><a href="https://github.com/bermarte">bermarte</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Abermarte">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Abermarte">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Abermarte">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Abermarte">mentioned</a><br> </th></tr></table>
+
+<table><tr><th> <img src="./admin/assets/avatars/caterinamennito.png" height="200px" width="200px" alt="caterinamennito avatar" /> </th><th> <h3 id="caterinamennito">Caterina</h3><br><a href="https://github.com/caterinamennito">caterinamennito</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Acaterinamennito">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Acaterinamennito">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Acaterinamennito">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Acaterinamennito">mentioned</a><br> </th></tr></table>
+
+<table><tr><th> <img src="./admin/assets/avatars/jgoyvaerts.png" height="200px" width="200px" alt="jgoyvaerts avatar" /> </th><th> <h3 id="jgoyvaerts">Jonathan</h3><br><a href="https://github.com/jgoyvaerts">jgoyvaerts</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Ajgoyvaerts">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Ajgoyvaerts">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Ajgoyvaerts">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Ajgoyvaerts">mentioned</a><br> </th></tr></table>
+
+<table><tr><th> <img src="./admin/assets/avatars/Mamboleoo.png" height="200px" width="200px" alt="Mamboleoo avatar" /> </th><th> <h3 id="Mamboleoo">Louis</h3><br><a href="https://github.com/Mamboleoo">Mamboleoo</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3AMamboleoo">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3AMamboleoo">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3AMamboleoo">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3AMamboleoo">mentioned</a><br> </th></tr></table>
 
 <table><tr><th> <img src="./admin/assets/avatars/samirm00.png" height="200px" width="200px" alt="samirm00 avatar" /> </th><th> <h3 id="samirm00">Samir</h3><br><a href="https://github.com/samirm00">samirm00</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Asamirm00">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Asamirm00">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Asamirm00">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Asamirm00">mentioned</a><br> </th></tr></table>
 
 <table><tr><th> <img src="./admin/assets/avatars/talmurshidi.png" height="200px" width="200px" alt="talmurshidi avatar" /> </th><th> <h3 id="talmurshidi">Tamer</h3><br><a href="https://github.com/talmurshidi">talmurshidi</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Atalmurshidi">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Atalmurshidi">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Atalmurshidi">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Atalmurshidi">mentioned</a><br> </th></tr></table>
 
-<table><tr><th> <img src="./admin/assets/avatars/prgrmfl.png" height="200px" width="200px" alt="prgrmfl avatar" /> </th><th> <h3 id="prgrmfl">Harun</h3><br><a href="https://github.com/prgrmfl">prgrmfl</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Aprgrmfl">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Aprgrmfl">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Aprgrmfl">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Aprgrmfl">mentioned</a><br> </th></tr></table>
+<table><tr><th> <img src="./admin/assets/avatars/unmeshvrije.png" height="200px" width="200px" alt="unmeshvrije avatar" /> </th><th> <h3 id="unmeshvrije">Unmesh</h3><br><a href="https://github.com/unmeshvrije">unmeshvrije</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Aunmeshvrije">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Aunmeshvrije">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Aunmeshvrije">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Aunmeshvrije">mentioned</a><br> </th></tr></table>
 
 ---
 
@@ -607,9 +616,6 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 | <img src="./admin/assets/avatars/danielhalasz.png" height="200px" width="200px" alt="danielhalasz avatar" /> | <h3 id="danielhalasz">Daniel</h3> <br>[danielhalasz](https://github.com/danielhalasz)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Adanielhalasz) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Adanielhalasz) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Adanielhalasz) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Adanielhalasz) |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-| <img src="./admin/assets/avatars/yoshimalaise.png" height="200px" width="200px" alt="yoshimalaise avatar" /> | <h3 id="yoshimalaise">Yoshi</h3> <br>[yoshimalaise](https://github.com/yoshimalaise)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Ayoshimalaise) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Ayoshimalaise) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Ayoshimalaise) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Ayoshimalaise) |
-| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | <img src="./admin/assets/avatars/colevandersWands.png" height="200px" width="200px" alt="colevandersWands avatar" /> | <h3 id="colevandersWands">Evan</h3> <br>[colevandersWands](https://github.com/colevandersWands)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AcolevandersWands) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AcolevandersWands) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AcolevandersWands) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AcolevandersWands) |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

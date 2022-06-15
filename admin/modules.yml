@@ -114,6 +114,24 @@ path:
     description: >-
       Explore problem solving in JavaScript, learn how to write and review
       solutions to JS coding challenges.
+
+      - **Week 1**: Chapter 1
+        - Lesson Plan: [Solution
+      Write-Ups](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/solution-write-ups.md)
+        - Study Priorities: Try to write up at least 3 solutions during the
+      week.
+
+      - **Week 2**: Chapters 2
+        - Lesson Plan: [Function
+      Design](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/function-design.md)
+        - Study Priorities: Try to solve 2-4 exercises from each section of the
+      chapter
+
+      - **Week 3**: Chapter 3
+        - Lesson Plan: [Code
+      Review](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/code-review.md)
+        - Deliverable: [Practice Code
+      Review](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/deliverables/practice-code-review.md)
     url: https://github.com/hackyourfuturebelgium/behavior-strategy-implementation
     weeks: 3
     milestone: 7
