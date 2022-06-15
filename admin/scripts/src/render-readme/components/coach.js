@@ -1,5 +1,5 @@
 export const coach = (
-  { env = {} },
+  { env = {}, org = {} },
   { name = '', user = '', homePage = '', modules = [] },
 ) => {
   const repoURL = `https://github.com/${env.user}/${env.repo}`;
@@ -20,9 +20,11 @@ export const coach = (
   if (homePage) {
     selfLinks.push(`<a href="${homePage}">home page</a>`);
   }
-  selfLinks.push(
-    `<a href="${repoURL}/discussions?discussions_q=involves%3A${user}">discussions</a>`,
-  );
+  if (!org.forum) {
+    selfLinks.push(
+      `<a href="${repoURL}/discussions?discussions_q=involves%3A${user}">discussions</a>`,
+    );
+  }
 
   const issuesLinks = [
     `<a href="${repoURL}/issues?q=author%3A${user}">opened</a>`,

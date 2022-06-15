@@ -1,5 +1,5 @@
 export const admin = (
-  { env = {} },
+  { env = {}, org = {} },
   { name = '', user = '', homePage = '' },
 ) => {
   const repoURL = `https://github.com/${env.user}/${env.repo}`;
@@ -20,9 +20,11 @@ export const admin = (
   if (homePage) {
     selfLinks.push(`[home page](${homePage})`);
   }
-  selfLinks.push(
-    `<a href="${repoURL}/discussions?discussions_q=involves%3A${user}">discussions</a>`,
-  );
+  if (!org.forum) {
+    selfLinks.push(
+      `<a href="${repoURL}/discussions?discussions_q=involves%3A${user}">discussions</a>`,
+    );
+  }
 
   const issuesLinks = [
     `[opened](${repoURL}/issues?q=author%3A${user})`,

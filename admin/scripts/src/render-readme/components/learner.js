@@ -1,5 +1,5 @@
 export const learner = (
-  { modules = {}, env = {} },
+  { modules = {}, env = {}, org = {} },
   { name = '', user = '', homePage = '' },
 ) => {
   const repoURL = `https://github.com/${env.user}/${env.repo}`;
@@ -16,7 +16,11 @@ export const learner = (
         : `label%3A${label}`
     })`;
 
-  const aList = (...rows) => rows.map((row) => row.join(' \\| ')).join('<br>');
+  const aList = (...rows) =>
+    rows
+      .filter((row) => row.length > 0)
+      .map((row) => row.join(' \\| '))
+      .join('<br>');
 
   // --- build the section ---
 
@@ -26,11 +30,13 @@ export const learner = (
     '/',
   )}/avatars/${user}.png" height="200px" width="200px" alt="${user} avatar" />`;
 
-  const discussionLinks = [
-    `[help wanted](${repoURL}/discussions/categories/help-wanted?discussions_q=author%3A${user}+category%3Ahelp-wanted+is:unanswered)`,
-    `[questions](${repoURL}/discussions/categories/question?discussions_q=author%3A${user}+category%3AQ%26A+is:unanswered)`,
-    `[all discussions](${repoURL}/discussions/categories/question?discussions_q=includes%3A${user})`,
-  ];
+  const discussionLinks = org.forum
+    ? []
+    : [
+        `[help wanted](${repoURL}/discussions/categories/help-wanted?discussions_q=author%3A${user}+category%3Ahelp-wanted+is:unanswered)`,
+        `[questions](${repoURL}/discussions/categories/question?discussions_q=author%3A${user}+category%3AQ%26A+is:unanswered)`,
+        `[all discussions](${repoURL}/discussions/categories/question?discussions_q=includes%3A${user})`,
+      ];
   const selfLinks = [
     `[${user}](https://github.com/${user})`,
     `[home page](${homePage || `https://${user}.github.io`})`,

@@ -25,19 +25,17 @@ export const top = ({ env = {}, modules = {}, org = {} }) =>
   - [Study Board](https://github.com/${env.user}/${env.repo}/projects/${
     modules.board
   })
-- [Discussions](https://github.com/${env.user}/${env.repo}/discussions)
-  - [Help Wanted](https://github.com/${env.user}/${
-    env.repo
-  }/discussions/categories/help-wanted)
-  - [Q & A](https://github.com/${env.user}/${
-    env.repo
-  }/discussions/categories/q-a)
-  - [Snippets](https://github.com/${env.user}/${
-    env.repo
-  }/discussions/categories/snippets)
-  - [Vocabulary](https://github.com/${env.user}/${
-    env.repo
-  }/discussions/categories/vocabulary)
+${
+  org.forum
+    ? `- [${
+        org.forum.includes('discord')
+          ? 'Discord'
+          : org.forum.includes('slack')
+          ? 'Slack'
+          : 'Forum'
+      }](${org.forum})`
+    : `- [Discussions](https://github.com/${env.user}/${env.repo}/discussions)`
+}
 - [Issues](https://github.com/${env.user}/${env.repo}/issues)
 - [Pull Requests](https://github.com/${env.user}/${env.repo}/pulls)
 - People
