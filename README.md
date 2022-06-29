@@ -9,14 +9,14 @@
 >
 >  </details>
 
-- [Class Calendar](https://calendar.google.com/calendar/embed?src=c_c46u93gd7iu11bq6erjb7f8208%40group.calendar.google.com&ctz=Europe%2FBrussels)
-- Modules
+- [Class Calendar](./assets/calendar.jpg)
+<!-- - Modules
   - [Quick Links](#modules)
   - [Details](https://lab-brussels-1.github.io/home/modules)
-  - [Study Board](https://github.com/lab-brussels-1/home/projects/1)
+  - [Study Board](https://github.com/lab-brussels-1/home/projects/1) -->
 - [Discord](https://discord.com/channels/894607053367181402/)
-- [Issues](https://github.com/lab-brussels-1/home/issues)
-- [Pull Requests](https://github.com/lab-brussels-1/home/pulls)
+<!-- - [Issues](https://github.com/lab-brussels-1/home/issues)
+- [Pull Requests](https://github.com/lab-brussels-1/home/pulls) -->
 - People
   - [Learners](#learners) -
     [Randomizer](https://lab-brussels-1.github.io/home/randomizer)
