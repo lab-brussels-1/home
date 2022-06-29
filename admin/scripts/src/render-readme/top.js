@@ -19,10 +19,7 @@ export const top = ({ env = {}, modules = {}, org = {} }) =>
 >  </details>
 
 - [Class Calendar](${org.calendar})
-- Modules
-  - [Quick Links](#modules)
-  - [Details](https://${env.user}.github.io/${env.repo}/modules)
-  - [Study Board](https://github.com/${env.user}/${env.repo}/projects/${
+- [Study Board](https://github.com/${env.user}/${env.repo}/projects/${
     modules.board
   })
 ${
@@ -34,10 +31,8 @@ ${
           ? 'Slack'
           : 'Forum'
       }](${org.forum})`
-    : `- [Discussions](https://github.com/${env.user}/${env.repo}/discussions)`
+    : ``
 }
-- [Issues](https://github.com/${env.user}/${env.repo}/issues)
-- [Pull Requests](https://github.com/${env.user}/${env.repo}/pulls)
 - People
   - [Learners](#learners) - [Randomizer](https://${env.user}.github.io/${
     env.repo

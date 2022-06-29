@@ -10,13 +10,8 @@
 >  </details>
 
 - [Class Calendar](./assets/calendar.jpg)
-<!-- - Modules
-  - [Quick Links](#modules)
-  - [Details](https://lab-brussels-1.github.io/home/modules)
-  - [Study Board](https://github.com/lab-brussels-1/home/projects/1) -->
+- [Study Board](https://github.com/lab-brussels-1/home/projects/1)
 - [Discord](https://discord.com/channels/894607053367181402/)
-<!-- - [Issues](https://github.com/lab-brussels-1/home/issues)
-- [Pull Requests](https://github.com/lab-brussels-1/home/pulls) -->
 - People
   - [Learners](#learners) -
     [Randomizer](https://lab-brussels-1.github.io/home/randomizer)
