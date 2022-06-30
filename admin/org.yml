@@ -1,5 +1,4 @@
 name: lab-brussels-1
 home: home
-calendar: >-
-  ./assets/calendar.jpg
+calendar: ./assets/calendar.jpg
 forum: https://discord.com/channels/894607053367181402/
