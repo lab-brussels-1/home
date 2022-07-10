@@ -451,20 +451,6 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/MahaLubbad.png" height="200px" width="200px" alt="MahaLubbad avatar" /> | <h3 id="MahaLubbad">Maha</h3><br>[MahaLubbad](https://github.com/MahaLubbad) \| [home page](https://MahaLubbad.github.io) \| [bio](./student-bios/MahaLubbad.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMahaLubbad+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AMahaLubbad+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMahaLubbad+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AMahaLubbad) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AMahaLubbad) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AMahaLubbad) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AMahaLubbad) |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Maha's github stats</summary>
-<br>
-
-![MahaLubbad github activity](https://ghchart.rshah.org/MahaLubbad)
-
-![MahaLubbad github stats](https://github-readme-stats.vercel.app/api?username=MahaLubbad&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
 | <img src="./admin/assets/avatars/MMikhailova.png" height="200px" width="200px" alt="MMikhailova avatar" /> | <h3 id="MMikhailova">Maria</h3><br>[MMikhailova](https://github.com/MMikhailova) \| [home page](https://MMikhailova.github.io) \| [bio](./student-bios/MMikhailova.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMMikhailova+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AMMikhailova+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMMikhailova+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AMMikhailova) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AMMikhailova) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AMMikhailova) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AMMikhailova) |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
@@ -475,20 +461,6 @@ real-world problem they face, then deliver a web app to meet their needs.
 ![MMikhailova github activity](https://ghchart.rshah.org/MMikhailova)
 
 ![MMikhailova github stats](https://github-readme-stats.vercel.app/api?username=MMikhailova&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
-| <img src="./admin/assets/avatars/Ufitamahoro.png" height="200px" width="200px" alt="Ufitamahoro avatar" /> | <h3 id="Ufitamahoro">Marie Josée</h3><br>[Ufitamahoro](https://github.com/Ufitamahoro) \| [home page](https://Ufitamahoro.github.io) \| [bio](./student-bios/Ufitamahoro.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AUfitamahoro+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AUfitamahoro+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AUfitamahoro+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AUfitamahoro) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AUfitamahoro) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AUfitamahoro) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AUfitamahoro) |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Marie Josée's github stats</summary>
-<br>
-
-![Ufitamahoro github activity](https://ghchart.rshah.org/Ufitamahoro)
-
-![Ufitamahoro github stats](https://github-readme-stats.vercel.app/api?username=Ufitamahoro&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
