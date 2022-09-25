@@ -311,20 +311,6 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/Carsiti.png" height="200px" width="200px" alt="Carsiti avatar" /> | <h3 id="Carsiti">Carsiti</h3><br>[Carsiti](https://github.com/Carsiti) \| [home page](https://Carsiti.github.io) \| [bio](./student-bios/Carsiti.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ACarsiti+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3ACarsiti+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ACarsiti+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3ACarsiti) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3ACarsiti) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3ACarsiti) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3ACarsiti) |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Carsiti's github stats</summary>
-<br>
-
-![Carsiti github activity](https://ghchart.rshah.org/Carsiti)
-
-![Carsiti github stats](https://github-readme-stats.vercel.app/api?username=Carsiti&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
 | <img src="./admin/assets/avatars/cristobal-lopez.png" height="200px" width="200px" alt="cristobal-lopez avatar" /> | <h3 id="cristobal-lopez">Cristobal</h3><br>[cristobal-lopez](https://github.com/cristobal-lopez) \| [home page](https://cristobal-lopez.github.io) \| [bio](./student-bios/cristobal-lopez.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Acristobal-lopez+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3Acristobal-lopez+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Acristobal-lopez+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Acristobal-lopez) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Acristobal-lopez) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Acristobal-lopez) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Acristobal-lopez) |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
@@ -461,20 +447,6 @@ real-world problem they face, then deliver a web app to meet their needs.
 ![TheRick88 github activity](https://ghchart.rshah.org/TheRick88)
 
 ![TheRick88 github stats](https://github-readme-stats.vercel.app/api?username=TheRick88&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
-| <img src="./admin/assets/avatars/Shewitttt.png" height="200px" width="200px" alt="Shewitttt avatar" /> | <h3 id="Shewitttt">Shewit</h3><br>[Shewitttt](https://github.com/Shewitttt) \| [home page](https://Shewitttt.github.io) \| [bio](./student-bios/Shewitttt.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AShewitttt+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AShewitttt+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AShewitttt+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AShewitttt) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AShewitttt) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AShewitttt) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AShewitttt) |
-| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Shewit's github stats</summary>
-<br>
-
-![Shewitttt github activity](https://ghchart.rshah.org/Shewitttt)
-
-![Shewitttt github stats](https://github-readme-stats.vercel.app/api?username=Shewitttt&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
